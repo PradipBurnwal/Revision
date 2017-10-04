@@ -1,0 +1,27 @@
+package com.itc.langStringPack;
+
+public class Lab033matches {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String str = "[A-Z]";
+		String str1 = "[a-z]";
+		String str2 = "[0-9]";
+		System.out.println("A".matches(str));
+		System.out.println("H".matches(str));
+		System.out.println("Z".matches(str));
+		System.out.println("AB".matches(str));
+		/*System.out.println("PRADIP".matches(str));
+		System.out.println();
+		System.out.println("a".matches(str));
+		System.out.println("a".matches(str1));
+		System.out.println();
+		System.out.println("1".matches(str));
+		System.out.println("1".matches(str2));
+		System.out.println();*/
+		
+	}
+
+}

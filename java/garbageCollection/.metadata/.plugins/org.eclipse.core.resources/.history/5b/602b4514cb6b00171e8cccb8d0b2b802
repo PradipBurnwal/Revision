@@ -1,0 +1,27 @@
+package com.app.refVars;
+
+public class Example {
+	//static reference variable
+	static Example e1,e2;
+	
+	//non-static reference variable
+	Example e3, e4;
+	
+	public static void main(String[] args) {
+		//local variable
+		Example e5, e6;
+		
+		//object creation with local variable;
+		Example e7 = new Example();
+		
+		System.out.println("e1: "+e1);
+		System.out.println(e2);
+		
+		System.out.println();
+		System.out.println();
+		
+		System.out.println();
+		System.out.println();
+	}
+
+}

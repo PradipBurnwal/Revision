@@ -1,0 +1,5 @@
+package com.itcindia.exception;
+
+public class AccountLockedException extends Exception {
+
+}

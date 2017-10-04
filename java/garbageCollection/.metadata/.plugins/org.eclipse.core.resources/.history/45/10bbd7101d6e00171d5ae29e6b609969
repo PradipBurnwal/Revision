@@ -1,0 +1,16 @@
+package com.app.refVars;
+
+public class NonStaticBlock {
+	int x = 10;
+	{
+		System.out.println("x :"+x);
+		System.out.println("y :"+y);
+	}
+	public static void main(String[] args) {
+		NonStaticBlock nsb = new NonStaticBlock();
+		System.out.println("x :"+nsb.x);
+		System.out.println("y :"+nsb.y);
+	}
+	int y = 20;
+
+}

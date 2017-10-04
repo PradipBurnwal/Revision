@@ -1,0 +1,120 @@
+2017-07-05 11:07:13,601 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:maven-demo:0.0.1-SNAPSHOT @ E:\Revision\Tools\mvn\maven-demo\pom.xml.
+2017-07-05 11:07:24,701 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/main/java
+2017-07-05 11:07:24,734 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-demo/src/main/resources
+2017-07-05 11:07:24,740 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/test/java
+2017-07-05 11:07:24,742 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-demo/src/test/resources
+2017-07-05 11:07:30,229 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:maven-demo:0.0.1-SNAPSHOT @ E:\Revision\Tools\mvn\maven-demo\pom.xml.
+2017-07-05 11:07:49,678 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:maven-demo:0.0.1-SNAPSHOT @ E:\Revision\Tools\mvn\maven-demo\pom.xml.
+2017-07-05 11:07:50,698 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:07:50,757 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:07:50,763 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:07:50,775 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:07:52,168 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:maven-demo:0.0.1-SNAPSHOT @ E:\Revision\Tools\mvn\maven-demo\pom.xml.
+2017-07-05 11:07:55,668 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:07:55,710 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:07:55,714 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:07:55,728 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:09:13,146 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:09:13,164 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:09:13,168 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:09:13,180 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:09:18,994 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:09:19,010 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:09:19,014 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:09:19,033 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:12:57,205 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:12:57,217 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:12:57,221 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:12:57,232 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:14:32,582 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:14:32,600 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:14:32,604 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:14:32,619 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:18:08,223 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:maven-demo:0.0.1-SNAPSHOT @ E:\Revision\Tools\mvn\maven-demo\pom.xml.
+2017-07-05 11:18:09,350 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:18:09,365 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:18:09,369 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:18:09,383 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:18:10,817 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:18:10,845 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:18:10,853 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:18:10,917 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:20:55,111 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:20:55,151 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:20:55,155 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:20:55,166 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:21:32,170 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:21:32,182 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:21:32,185 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 11:21:32,197 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 11:21:49,643 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-07-05 11:22:20,766 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Revision\Tools\mvn\maven-demo
+2017-07-05 11:22:20,767 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-07-05 11:23:55,469 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-07-05 11:24:16,481 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Revision\Tools\mvn\maven-demo
+2017-07-05 11:24:16,483 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2017-07-05 11:25:32,717 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-07-05 11:26:30,637 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Revision\Tools\mvn\maven-demo
+2017-07-05 11:26:30,637 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2017-07-05 11:34:29,402 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-07-05 11:34:38,113 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Revision\Tools\mvn\maven-demo
+2017-07-05 11:34:38,114 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2017-07-05 15:02:51,199 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Revision\Tools\mvn\Student\pom.xml
+2017-07-05 15:03:01,056 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springframework:Student:0.0.1-SNAPSHOT @ E:\Revision\Tools\mvn\Student\pom.xml.
+2017-07-05 15:03:04,854 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springframework:Student:0.0.1-SNAPSHOT @ E:\Revision\Tools\mvn\Student\pom.xml.
+2017-07-05 15:03:04,970 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Student/src/main/java
+2017-07-05 15:03:05,427 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Student/src/test/java
+2017-07-05 15:03:05,944 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 14 sec
+2017-07-05 15:03:08,468 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springframework:Student:0.0.1-SNAPSHOT @ E:\Revision\Tools\mvn\Student\pom.xml.
+2017-07-05 15:03:08,885 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:03:08,885 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:03:08,900 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:03:08,900 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:03:25,062 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:03:25,062 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:03:25,077 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:03:25,077 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:03:42,279 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:03:42,279 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:03:42,279 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:03:42,279 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:05:12,835 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:05:12,836 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:05:12,842 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:05:12,843 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:05:19,074 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:05:19,074 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:05:19,074 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:05:19,074 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:06:02,580 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:06:02,580 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:06:02,596 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:06:02,596 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:06:09,172 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:06:09,172 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:06:09,172 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:06:09,172 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:06:17,237 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:06:17,237 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:06:17,253 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:06:17,253 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:08:53,649 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:08:53,649 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:08:53,649 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:08:53,649 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:09:21,525 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:09:21,525 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:09:21,525 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:09:21,525 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:09:55,174 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:09:55,174 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:09:55,176 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:09:55,176 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:10:05,862 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:10:05,862 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:10:05,878 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:10:05,878 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources
+2017-07-05 15:12:10,031 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:12:10,031 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\main\resources
+2017-07-05 15:12:10,047 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-05 15:12:10,047 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\mvn\Student\src\test\resources

@@ -1,0 +1,16 @@
+package com.itc.langStringBuilderPackage;
+
+public class Lab003StringBuffer {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		StringBuilder sb1 = new StringBuilder("A");
+		StringBuilder sb2 = new StringBuilder("A");
+		System.out.println(sb1.equals(sb2));//true
+		
+		
+	}
+
+}

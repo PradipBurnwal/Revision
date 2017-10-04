@@ -1,0 +1,27 @@
+package com.app.refVars;
+
+public class NonStaticBlock {
+	int x = 10;
+	{
+		System.out.println("x :"+x);
+		//class Level Variable "b" can not be access directly from other SV or SB
+		//before its creational statement
+		//System.out.println("y :"+y);
+		//so it can be access either through constructor or method
+		//Approach-2 through constructor
+		System.out.println("y :"+this.y);
+		//Approach-3 through Method
+		//System.out.println("y :"+getY());
+	}
+	public static void main(String[] args) {
+		NonStaticBlock nsb = new NonStaticBlock();
+		System.out.println("x :"+nsb.x);
+		System.out.println("y :"+nsb.y);
+	}
+	//Approach-3 through method
+	int getY(){
+		return y;
+	}
+	int y = 20;
+
+}

@@ -1,0 +1,12 @@
+package com.oop.superParantesis;
+
+public class Example {
+
+	private Example(int a) {
+		super();
+		System.out.println("E Cons");
+	}
+
+	
+	
+}

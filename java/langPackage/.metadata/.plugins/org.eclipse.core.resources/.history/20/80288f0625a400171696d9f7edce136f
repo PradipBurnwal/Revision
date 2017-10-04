@@ -1,0 +1,42 @@
+package com.itc.langStringPack;
+
+public class Lab032split {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String str = "Hi,welcome to ITC(Indian Tobaco Company),Indian Company";
+		String res[] = str.split("India");
+		System.out.println("Length: "+res.length);
+		for(int i=0;i<res.length;i++){
+			String st = res[i];
+			System.out.println(i+"\t"+st);
+		}
+		System.out.println();
+		
+		String res1[] = str.split(" ");
+		System.out.println("Length: "+res1.length);
+		for(int i=0;i<res1.length;i++){
+			String st = res1[i];
+			System.out.println(i+"\t"+st);
+		}
+		System.out.println();
+		
+		String res2[] = str.split(" ",2);
+		System.out.println("Length: "+res2.length);
+		for(int i=0;i<res2.length;i++){
+			String st = res2[i];
+			System.out.println(i+"\t"+st);
+		}
+		
+		System.out.println();
+		String res3[] = str.split("India");
+		System.out.println("Length: "+res3.length);
+		for(int i=0;i<res3.length;i++){
+			String st = res3[i];
+			System.out.println(i+"\t"+st);
+		}
+	}
+
+}

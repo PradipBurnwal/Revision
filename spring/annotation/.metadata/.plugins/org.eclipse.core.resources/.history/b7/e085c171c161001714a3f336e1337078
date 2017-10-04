@@ -1,0 +1,10 @@
+package com.javaConfiguration5.test;
+
+public class Scooter {
+
+	public Scooter() {
+		System.out.println("Hamara Bajaj");
+	}
+	
+	
+}

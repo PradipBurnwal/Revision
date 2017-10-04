@@ -1,0 +1,17 @@
+package com.oop.overloading;
+
+public class Test {
+
+	public static void main(String[] args) {
+		A a = new A();
+		
+		Object obj1 = new Object();
+		Object obj2 = "Pradip";
+		Object obj3 = new Integer(1234);
+		
+		a.foo((String)(obj1));
+		a.foo((Integer)(obj1));
+		a.equals((String)(obj3));
+	}
+
+}

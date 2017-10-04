@@ -1,0 +1,17 @@
+package com.app.vector;
+
+import java.util.Vector;
+
+public class VectorDemo {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Vector v = new Vector();
+		System.out.println(v.capacity());
+
+	}
+
+}

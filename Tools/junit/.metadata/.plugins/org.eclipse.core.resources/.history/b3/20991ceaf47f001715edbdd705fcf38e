@@ -1,0 +1,35 @@
+package com.itcindia.timeout;
+
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+
+public class BookInfoTest {
+	private static BookInfo bookInfo;
+	private String timeOutIsbn;
+	private String anyIsbn;
+	
+	@BeforeClass
+	public static void lookUp(){
+		bookInfo = new BookInfo();
+	}
+	
+	@Before
+	public void init(){
+		timeOutIsbn = "isbn1001";
+		anyIsbn = "isbn1028";
+	}
+	
+	
+	@After
+	public void cleanUp(){
+		timeOutIsbn = null;
+		anyIsbn = null;
+	}
+	
+	@AfterClass
+	public static void shutdown(){
+		bookInfo = null;
+	}
+}

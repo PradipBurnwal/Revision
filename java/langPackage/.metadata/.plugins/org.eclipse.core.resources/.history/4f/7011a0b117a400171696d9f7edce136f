@@ -1,0 +1,12 @@
+package com.itc.langStringPack;
+
+public class Lab029getBytes {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.javaConfiguration5.test;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AppConfig {
+	@Bean(name="scooter")
+	public Scooter newScooter(){
+		return new Scooter();
+	}
+
+}

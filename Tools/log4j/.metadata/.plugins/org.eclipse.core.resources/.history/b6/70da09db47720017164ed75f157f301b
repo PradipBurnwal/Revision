@@ -1,0 +1,21 @@
+package com.itc.log4j;
+
+public class Test {
+
+	public static void main(String[] args) {
+		for(int i=1; i<2; i++){
+			try {
+				Thread.sleep(5000);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+		if(args.length==0){
+			//
+		}
+		ITCOperator op = new ITCOperator();
+		int rem = op.getReminder(args[0], args[1]);
+		System.out.println("Reminder in main: "+rem);
+	}
+
+}

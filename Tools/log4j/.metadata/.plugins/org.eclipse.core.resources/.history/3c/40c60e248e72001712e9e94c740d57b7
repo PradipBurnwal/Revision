@@ -1,0 +1,16 @@
+package com.itc.log4j;
+
+import org.apache.log4j.Logger;
+
+public class Addition {
+	public static Logger log = Logger.getLogger(this.getClass());
+	static int add(int a, int b){
+		log.info("-add() method invoked-");
+		if(a>0 && b>0){
+			return (a+b);
+		}else{
+			throw new IllegalArgumentException("No. must be Greater then 0");
+		}
+		
+	}
+}

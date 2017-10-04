@@ -1,0 +1,17 @@
+package com.itcindia.service;
+
+import com.itcindia.dto.Account;
+import com.itcindia.exception.AccountLockedException;
+
+
+public class BankingService {
+	public Account getAccountDetails(String accountNo){
+		Account account = null;
+		if(accountNo.equals("ac001")){
+			throw new AccountLockedException("account Locked");
+		}
+			
+		return account;
+	}
+
+}

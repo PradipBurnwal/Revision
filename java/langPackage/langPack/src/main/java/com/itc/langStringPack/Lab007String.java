@@ -1,0 +1,18 @@
+package com.itc.langStringPack;
+
+public class Lab007String {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String st1 = "ITCIndia";
+		String st2 = "ITC"+"India";
+		String st3 = "ITC";
+		String st4 = "India";
+		String st5 = st3 + st4;
+		System.out.println(st1 == st2);
+		System.out.println(st1 == st5);
+	}
+
+}

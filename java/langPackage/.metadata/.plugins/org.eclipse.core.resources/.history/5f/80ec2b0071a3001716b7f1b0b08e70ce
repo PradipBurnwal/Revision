@@ -1,0 +1,14 @@
+package com.itc.langStringPack;
+
+public class Lab019StringLengthNCase {
+
+	/**
+	 * find String length
+	 * and change the font case
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+	}
+
+}

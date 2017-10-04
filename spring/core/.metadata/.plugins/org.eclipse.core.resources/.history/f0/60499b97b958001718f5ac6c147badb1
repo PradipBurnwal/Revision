@@ -1,0 +1,21 @@
+package com.blc.test;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.beans.factory.xml.XmlBeanFactory;
+import org.springframework.core.io.ClassPathResource;
+
+import com.blc.beans.Calculator;
+
+public class BLcTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		BeanFactory factory = new XmlBeanFactory(new ClassPathResource("com/blc/common/application-context.xml"));
+		Calculator cal = factory.getBean("calc", Calculator.class);
+		System.out.println(cal);
+		
+	}
+
+}

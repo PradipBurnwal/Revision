@@ -1,0 +1,23 @@
+package com.jcaa6.test;
+
+import org.springframework.beans.factory.annotation.Autowire;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AwAppConfig {
+	@Bean(name="sand-machine")
+	public Machine newSandMachine(){
+		return new Machine();
+	}
+	
+	@Bean(name="rock-machine")
+	public Machine newRockMachine(){
+		return new Machine();
+	}
+	
+	@Bean(name="controllerBoard", autowire=Autowire.BY_TYPE)
+	public ControlBoard newControlBoard(){
+		return new ControlBoard();
+	}
+}

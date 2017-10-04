@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.usingAbstractClass&apos; to &apos;com.usingAbstractClass.resource&apos;&#x0D;&#x0A;- Original project: &apos;3_WorkingWithInterface&apos;&#x0D;&#x0A;- Original element: &apos;3_WorkingWithInterface/src/com.usingAbstractClass&apos;&#x0D;&#x0A;- Renamed element: &apos;3_WorkingWithInterface/src/com.usingAbstractClass.resource&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.usingAbstractClass&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.usingAbstractClass" name="com.usingAbstractClass.resource" qualified="false" references="true" stamp="1501396304782" textual="false" version="1.0"/>
+</session>

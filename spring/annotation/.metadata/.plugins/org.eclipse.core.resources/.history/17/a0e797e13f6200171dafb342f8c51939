@@ -1,0 +1,13 @@
+package com.import12.test;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Game {
+	private Player player1;
+	private Player player2;
+	
+	public void start(){
+		System.out.println("player1 : "+player1.getPlayerName()+" player2 : "+player2.getPlayerName());
+	}
+}

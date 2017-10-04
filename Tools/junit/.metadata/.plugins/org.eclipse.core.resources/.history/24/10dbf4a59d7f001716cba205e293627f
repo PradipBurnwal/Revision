@@ -1,0 +1,35 @@
+package com.itcindia.testFixture;
+
+public class PalindromeTest {
+	private Palindrome palindrome;
+	private String palindromeIn;
+	private String nonPalindromeIn;
+	
+	public static void load(){
+		System.out.println("load()");
+	}
+	public void init(){
+		System.out.println("init()");
+		palindrome = new Palindrome();
+		palindromeIn = "malayalam";
+		nonPalindromeIn = "india";
+	}
+	
+	public void testPalindrome(){
+		boolean actual = false;
+		actual = palindrome.check(palindromeIn);
+		assertTrue(actual);
+	}
+	public void testNonPalindrome(){
+		boolean actual = false;
+		actual = palindrome.check(nonPalindromeIn);
+		assertTrue(actual);
+	}
+	public void cleanUp(){
+		System.out.println("cleanUp()");
+		palindrome = null;
+	}
+	public static void shutdown(){
+		System.out.println("shutdown()");
+	}
+}

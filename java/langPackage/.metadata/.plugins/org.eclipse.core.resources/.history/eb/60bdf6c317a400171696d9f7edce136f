@@ -1,0 +1,18 @@
+package com.itc.langStringPack;
+
+public class Lab029getBytes {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String str ="ITCIndia";
+		byte bArr[] = str.getBytes();
+		System.out.println("\n**byte Array**");
+		for(int i=0;i<bArr.length;i++){
+			byte b = bArr[i];
+			System.out.println("  "+i+"\t"+b);
+		}
+	}
+
+}

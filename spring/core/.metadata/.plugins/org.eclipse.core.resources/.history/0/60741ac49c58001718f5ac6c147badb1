@@ -1,0 +1,8 @@
+package com.ai.beans;
+
+public class car {
+	public void drive(){
+		
+	}
+
+}

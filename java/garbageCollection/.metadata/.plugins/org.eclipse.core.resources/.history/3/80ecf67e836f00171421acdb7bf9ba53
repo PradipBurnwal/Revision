@@ -1,0 +1,13 @@
+package com.oop.superParantesis;
+
+public class Sample extends Example {
+	
+	public Sample(int a) {
+		System.out.println("Sample construtor");
+	}
+
+	public static void main(String[] args) {
+		Sample sample = new Sample(10);
+	}
+
+}

@@ -1,0 +1,21 @@
+package com.docm.util;
+
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+
+public class Cache {
+	private static Cache instance;
+	private Map<String, Object> dataMap;
+	
+	public Cache() {
+		this.dataMap = new ConcurrentHashMap<String, Object>();
+	}
+
+	public static synchronized Cache getInstance(){
+		if(instance==null){
+			instance = new Cache();
+		}
+		return instance;
+	}
+
+}

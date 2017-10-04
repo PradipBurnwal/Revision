@@ -1,0 +1,13 @@
+package com.profile11.test;
+
+public class ProfileTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

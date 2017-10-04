@@ -1,0 +1,7 @@
+package com.dopf.beans;
+
+public class LoanCalculator {
+	public void calInt(Long principle, int n, String city){
+		
+	}
+}

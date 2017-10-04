@@ -1,0 +1,15 @@
+package com.itcindia.exceptionTest;
+
+import com.itcindia.dto.Account;
+import com.itcindia.service.BankingService;
+
+public class BankingServiceTest {
+	private BankingService bankingService;
+	private Account activeAccount;
+	public BankingServiceTest(BankingService bankingService,Account activeAccount) {
+		super();
+		this.bankingService = bankingService;
+		this.activeAccount = activeAccount;
+	}
+	
+}

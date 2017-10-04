@@ -1,0 +1,22 @@
+package com.itc.langStringPack;
+
+public class Lab026Substring {
+
+	/**
+	 * Use of subSequence and subString are same except subSequence return charSequence
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String str = "ITCINDIA";
+		System.out.println(str.substring(0));
+		System.out.println(str.substring(3));
+		System.out.println(str.substring(0, 3));
+		System.out.println(str.substring(3, 6));
+		System.out.println(str.subSequence(1, 6));
+		System.out.println();
+		int len = str.length();
+		System.out.println(str.substring(3, len));
+		System.out.println(str.substring(3, len-2));
+	}
+
+}

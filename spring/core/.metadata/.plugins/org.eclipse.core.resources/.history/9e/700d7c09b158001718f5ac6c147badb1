@@ -1,0 +1,28 @@
+package com.blcp.beans;
+
+import org.springframework.beans.factory.DisposableBean;
+import org.springframework.beans.factory.InitializingBean;
+
+public class Robot implements InitializingBean, DisposableBean {
+	private String name;
+	private Chip chip;
+	
+	public Robot(Chip chip) {
+		this.chip = chip;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	@Override
+	public void destroy() throws Exception {
+		System.out.println("From Destroy()");
+		System.out.println("Destroy dependents..");
+	}
+	@Override
+	public void afterPropertiesSet() throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+}

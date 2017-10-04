@@ -1,0 +1,13 @@
+package com.itc.langStringPack;
+
+public class Lab025lastIndexOf {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

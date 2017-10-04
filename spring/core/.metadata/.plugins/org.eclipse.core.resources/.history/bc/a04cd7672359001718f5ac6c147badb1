@@ -1,0 +1,15 @@
+package com.bpp.test;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.beans.factory.config.BeanPostProcessor;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class BPPTest {
+
+	public static void main(String[] args) {
+		ApplicationContext context = new ClassPathXmlApplicationContext("com/bpp/common/application-context.xml");
+		BeanPostProcessor bpp = context.getBean("instanceTrackerBeanPostProcessor", BeanPostProcessor.class);
+	}
+
+}

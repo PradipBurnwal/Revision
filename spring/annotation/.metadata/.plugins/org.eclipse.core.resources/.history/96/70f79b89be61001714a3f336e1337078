@@ -1,0 +1,13 @@
+package com.stereotypeAnno4.test;
+
+public class AnnoConfigTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

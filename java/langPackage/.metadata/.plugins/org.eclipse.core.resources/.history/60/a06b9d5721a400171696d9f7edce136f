@@ -1,0 +1,15 @@
+package com.itc.langStringPack;
+
+public class Lab31charToString {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		char cArr[] = {'I','T','C','I','N','D','I','A'};
+		byte bArr[] = {65,66,67,97,98,99,49,50};
+		String st1 = new String(cArr);
+		String st2 = new String(bArr);
+	}
+
+}

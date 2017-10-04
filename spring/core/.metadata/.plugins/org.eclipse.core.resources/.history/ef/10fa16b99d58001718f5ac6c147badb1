@@ -1,0 +1,11 @@
+package com.ai.beans;
+
+import org.springframework.beans.factory.BeanFactoryAware;
+
+public class Car implements BeanFactoryAware{
+	
+	public void drive(){
+		
+	}
+
+}

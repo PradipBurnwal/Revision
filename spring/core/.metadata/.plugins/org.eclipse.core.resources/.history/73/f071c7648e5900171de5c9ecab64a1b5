@@ -1,0 +1,17 @@
+package com.doc.beans;
+
+import java.util.Properties;
+
+import com.doc.util.Cache;
+
+public class LoanCalculator {
+	public double calInt(long principle, int n, Strint city){
+		float ri = 0.0f;
+		float intAmt = 0.0f;
+		Cache cache = null;
+		Properties cityIntProps = null;
+		
+		
+	}
+
+}

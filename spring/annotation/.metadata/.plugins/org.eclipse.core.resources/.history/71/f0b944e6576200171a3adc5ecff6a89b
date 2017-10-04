@@ -1,0 +1,19 @@
+package com.jcsta.test;
+
+import javax.inject.Named;
+
+@Named("rocket")
+public class Rocket {
+	public void initialize(){
+		System.out.println("verifying....");
+	}
+	
+	public void launch(){
+		System.out.println("launching...");
+	}
+	
+	public void shutdown(){
+		System.out.println("clearing...");
+	}
+	
+}

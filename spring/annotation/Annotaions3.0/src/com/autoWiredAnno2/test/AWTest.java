@@ -1,0 +1,13 @@
+package com.autoWiredAnno2.test;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class AWTest {
+	public static void main(String[] args) {
+		ApplicationContext context = new ClassPathXmlApplicationContext("com/autoWiredAnno2/test/autowired-anno-bean.xml");
+		Robot robot = context.getBean("robot", Robot.class);
+		System.out.println(robot);
+	}
+
+}

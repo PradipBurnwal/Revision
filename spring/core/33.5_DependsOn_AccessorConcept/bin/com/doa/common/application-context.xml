@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="cache" class="com.doa.util.Cache" factory-method="getInstance"/>
+	<bean id="cityRIPropsFileAccessor" class="com.doa.accessor.CityRIPropsFileAccessor">
+		<constructor-arg value="city-ri"/>
+	</bean>
+	<bean id="cacheManager" class="com.doa.util.CacheManager">
+		<constructor-arg ref="cache"/>
+		<constructor-arg>
+			<list value-type="com.doa.accessor.IAccessor">
+				<ref bean="cityRIPropsFileAccessor"/>
+			</list>
+		</constructor-arg>
+	</bean>
+	<bean id="loanService" class="com.doa.beans.LoanService" depends-on="cacheManager">
+		<property name="cache" ref="cache"/>
+	</bean>
+</beans>

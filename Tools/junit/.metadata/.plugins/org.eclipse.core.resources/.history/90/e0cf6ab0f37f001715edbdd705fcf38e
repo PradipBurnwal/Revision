@@ -1,0 +1,16 @@
+package com.itcindia.timeout;
+
+public class BookInfoTest {
+	private static BookInfo bookInfo;
+	private String timeOutIsbn;
+	private String anyIsbn;
+	
+	public static void lookUp(){
+		bookInfo = new BookInfo();
+	}
+	
+	public void init(){
+		timeOutIsbn = "isbn1001";
+		anyIsbn = "isbn1028";
+	}
+}

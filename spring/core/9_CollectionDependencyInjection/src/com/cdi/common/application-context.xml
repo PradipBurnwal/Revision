@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="btech1yr1semcsc" class="com.cdi.beans.Course">
+		<constructor-arg>
+			<list value-type="java.lang.String">
+				<value>c</value>
+				<value>ds</value>
+				<value>os</value>
+			</list>
+		</constructor-arg>
+		<property name="faculties">
+			<set value-type="java.lang.String">
+				<value>Raju</value>
+				<value>Vivek</value>
+				<value>Chintu</value>
+			</set>
+		</property>
+	</bean>
+
+	<bean id="college" class="com.cdi.beans.College">
+		<property name="hodToCourse">
+			<map key-type="java.lang.String" value-type="com.cdi.beans.Course">
+				<entry key="Raju" value-ref="btech1yr1semcsc"/>
+			</map>
+		</property>
+		<property name="courseTopper">
+			<props>
+				<prop key="csc">
+					Pradip
+				</prop>
+			</props>
+		</property>
+	</bean>
+</beans>

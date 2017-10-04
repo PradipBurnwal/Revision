@@ -1,0 +1,5 @@
+package com.bfpp.beans;
+
+public class ConnectionManaget {
+
+}

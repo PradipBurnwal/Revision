@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<!-- autowire byName -->
+	<!-- <bean id="humpty" class="com.ba.beans.Humpty" autowire="byName"/>
+	
+	<bean id="dumpty" class="com.ba.beans.Dumpty">
+		<property name="name" value="Dumpty12"/>
+	</bean> -->
+	<!-- autowire byType -use autowire-candidate=false to resolve Ambigutu issue -->
+	<!-- <bean id="humpty" class="com.ba.beans.Humpty" autowire="byType"/>
+	
+	<bean id="dumpty2" class="com.ba.beans.Dumpty" >
+		<property name="name" value="Dumpty12"/>
+	</bean>
+	
+	<bean id="dumpty1" class="com.ba.beans.Dumpty" autowire-candidate="false">
+		<property name="name" value="Dumpty120"/>
+	</bean> -->
+
+	<!-- autowire through Constructor -->
+	<bean id="humpty" class="com.ba.beans.Humpty" autowire="constructor"/>
+	
+	<bean id="dumpty100" class="com.ba.beans.Dumpty">
+		<property name="name" value="Dumpty12"/>
+	</bean>
+</beans>

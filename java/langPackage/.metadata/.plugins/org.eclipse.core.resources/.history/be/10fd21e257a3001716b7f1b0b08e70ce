@@ -1,0 +1,12 @@
+package com.itc.langStringPack;
+
+public class Lab003InternExample {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+	}
+
+}

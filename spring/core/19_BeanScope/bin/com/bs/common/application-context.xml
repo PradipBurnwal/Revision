@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- ByDefault every bean scope is Singleton, so it return true -->
+	<!-- <bean id="toy" class="com.bs.beans.Toy" /> -->
+	
+	<!-- In Prototype Bean Scope - Every bean reference will return unique Instance -->
+	<bean id="toy" class="com.bs.beans.Toy" scope="prototype"/>
+	
+</beans>

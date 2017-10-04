@@ -1,0 +1,31 @@
+package com.doa.beans;
+
+import java.util.Properties;
+
+import com.doa.util.Cache;
+
+public class LoanService {
+	private Cache cache;
+	public double calIntAmt(long principle, int tenure, String loantype, String profession, String city) throws Exception{
+		float ri = 0.0f;
+		double intAmt = 0.0;
+		Properties props = null;
+		
+		//check this key(properties file) is available into cache or not
+		if(cache.containsKey("city-ri")==false){
+			throw new Exception("no cities found");
+		}
+		//call the get()method to read the properties file from the cache
+		props = (Properties) cache.get("city-ri");
+		// check city is available in properties file or not
+		if(props.containsKey(city)==false){
+			throw new Exception("no city found");
+		}
+		//now read the value from the properties file
+		ri = Float.parseFloat(props.getProperty(city));
+		//calculate Interest amount to be paid
+		intAmt = (principle*tenure*ri)/100;
+		return intAmt;
+		
+	}
+}

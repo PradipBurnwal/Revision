@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+E:\Revision\spring\security\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2212940076.index
+\SpringSecurity1\src\main\resources
+E:\Revision\spring\security\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1671502091.index
+\springSecurity
+E:\Revision\spring\security\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\490883573.index
+\SpringSceurity

@@ -1,0 +1,15 @@
+package com.itc.langStringPack;
+
+public class Lab026Substring {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String str = "ITCINDIA";
+		System.out.println(str.substring(0));
+		System.out.println(str.substring(3));
+		System.out.println(str.substring(0, 2));
+	}
+
+}

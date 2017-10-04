@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- Throw Exception in creating the bean object -->
+	<!-- <bean id="motor" class="com.dc.beans.Motor" p:chain-ref="chain" dependency-check="simple"/> -->
+	<!-- <bean id="motor" class="com.dc.beans.Motor" p:id="100" p:type="Sportz" dependency-check="objects"/> -->
+	<bean id="motor" class="com.dc.beans.Motor" dependency-check="all"/>
+	
+	<!-- Following cases bean object will get created -->
+	<!-- <bean id="motor" class="com.dc.beans.Motor" p:id="100" p:type="Sportz" dependency-check="simple"/> -->
+	<!-- <bean id="motor" class="com.dc.beans.Motor" p:chain-ref="chain" dependency-check="objects"/> -->
+	<!-- <bean id="motor" class="com.dc.beans.Motor" p:id="100" p:type="Sportz" p:chain-ref="chain" dependency-check="all"/> -->
+		
+	<bean id="chain" class="com.dc.beans.Chain" p:id="555" p:manufacturer="Honda"/>
+
+</beans>

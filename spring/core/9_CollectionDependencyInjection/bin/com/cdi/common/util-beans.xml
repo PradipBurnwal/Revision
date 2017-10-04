@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd">
+
+	<!-- <bean id="course" class="com.cdi.beans.Course">
+		<constructor-arg name="subject">
+		<constructor-arg>
+			<list value-type="java.lang.String">
+				<value>DS</value>
+				<value>Core Jave</value>
+				<value>Adv Java</value>
+				<value>Spring</value>
+				<value>Hibernate</value>
+			</list>
+		</constructor-arg>
+		<property name="faculties">
+			<set value-type="java.lang.String">
+				<value>Kiran</value>
+				<value>Hari Krishna</value>
+				<value>Durga Sir</value>
+				<value>Sriman</value>
+				<value>Sekhar</value>
+			</set>
+		</property>
+	</bean> -->
+	
+	<bean id="course" class="com.cdi.beans.Course">
+		<constructor-arg ref="subjectlist"/>
+		<property name="faculties" ref="facultiesSet"></property>
+	</bean>
+	
+	<util:list id="subjectlist" list-class="java.util.Vector">
+		<value>Core Java</value>
+		<value>Spring</value>
+	</util:list>
+	
+	<util:set id="facultiesSet" set-class="java.util.HashSet">
+		<value>Durga</value>
+		<value>Sriman</value>		
+	</util:set>
+	
+</beans>
+

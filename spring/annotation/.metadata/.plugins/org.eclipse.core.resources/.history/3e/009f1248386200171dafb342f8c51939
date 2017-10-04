@@ -1,0 +1,10 @@
+package com.profile11.test;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.PropertySource;
+
+@Configuration
+@PropertySource("classpath:com/profile11/test/dev-db.properties")
+public class DevConfig {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;pricr&apos; in &apos;com.bi.beans.Car&apos; to &apos;price&apos;&#x0D;&#x0A;- Original project: &apos;12_BeanInheritance&apos;&#x0D;&#x0A;- Original element: &apos;com.bi.beans.Car.pricr&apos;&#x0D;&#x0A;- Renamed element: &apos;com.bi.beans.Car.price&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;pricr&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.bi.beans{Car.java[Car^pricr" name="price" references="true" setter="false" stamp="1497703016208" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+package com.stjc8.test;
+
+public class Microphone {
+	public void transfer(String message){
+		System.out.println(message);
+	}
+
+}

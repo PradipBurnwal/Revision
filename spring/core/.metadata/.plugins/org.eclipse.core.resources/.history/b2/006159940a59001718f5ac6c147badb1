@@ -1,0 +1,7 @@
+package com.lmi.beans;
+
+public class Container {
+	public void receive(String data){
+		
+	}
+}

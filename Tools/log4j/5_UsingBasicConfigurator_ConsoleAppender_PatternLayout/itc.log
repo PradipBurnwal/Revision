@@ -1,0 +1,4 @@
+'2017-07-27 15:58:36,486','com.itc.log4j.Test','INFO','Test','main','-Main Method Started-','com.itc.log4j.Test.main(Test.java:28)','
+''2017-07-27 15:58:36,493','com.itc.log4j.Test','DEBUG','Test','main','Value as CLA:0','com.itc.log4j.Test.main(Test.java:29)','
+''2017-07-27 15:58:41,495','com.itc.log4j.Test','WARN','Test','main','No cammand Line argument is Specifide','com.itc.log4j.Test.main(Test.java:38)','
+'

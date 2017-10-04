@@ -1,0 +1,13 @@
+package com.primitiveValueAnno3.test;
+
+public class PYVTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

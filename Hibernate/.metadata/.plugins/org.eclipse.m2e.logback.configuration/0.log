@@ -1,0 +1,450 @@
+2017-07-05 03:49:01,023 [Worker-143] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:demo:0.0.1-SNAPSHOT @ E:\Revision\Hibernate\demo\pom.xml.
+2017-07-05 03:49:08,406 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2017-07-05 03:49:08,412 [Worker-145] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:demo:0.0.1-SNAPSHOT @ E:\Revision\Hibernate\demo\pom.xml.
+2017-07-05 03:49:08,440 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2017-07-05 03:49:08,442 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2017-07-05 03:49:08,443 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/test/resources
+2017-07-05 03:49:10,931 [Worker-143] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:demo:0.0.1-SNAPSHOT @ E:\Revision\Hibernate\demo\pom.xml.
+2017-07-05 03:49:11,263 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 03:49:11,413 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 03:49:11,420 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 03:49:11,452 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 03:50:40,183 [Worker-143] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:maven-Demo1:0.0.1-SNAPSHOT @ E:\Revision\Hibernate\maven-Demo1\pom.xml.
+2017-07-05 03:50:40,499 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-Demo1/src/main/java
+2017-07-05 03:50:40,499 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-Demo1/src/main/resources
+2017-07-05 03:50:40,501 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-Demo1/src/test/java
+2017-07-05 03:50:40,502 [Worker-143] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-Demo1/src/test/resources
+2017-07-05 03:50:41,237 [Worker-144] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:maven-Demo1:0.0.1-SNAPSHOT @ E:\Revision\Hibernate\maven-Demo1\pom.xml.
+2017-07-05 03:50:41,567 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 03:50:41,595 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 03:50:41,599 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 03:50:41,628 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 03:50:41,955 [Worker-143] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:maven-Demo1:0.0.1-SNAPSHOT @ E:\Revision\Hibernate\maven-Demo1\pom.xml.
+2017-07-05 03:50:42,932 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 03:50:42,968 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 03:50:42,971 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 03:50:42,999 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 03:57:54,784 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 03:57:54,821 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 03:57:54,826 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 03:57:54,855 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 03:59:19,536 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 03:59:19,590 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 03:59:19,593 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 03:59:19,619 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 04:02:05,644 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 04:02:05,671 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 04:02:05,684 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 04:02:05,704 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 04:07:53,560 [Worker-146] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pkb:maven-Demo1:0.0.1-SNAPSHOT @ E:\Revision\Hibernate\maven-Demo1\pom.xml.
+2017-07-05 04:07:54,060 [Worker-146] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:07:55,501 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2017-07-05 04:07:55,868 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2017-07-05 04:07:56,293 [Worker-146] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:07:56,847 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2017-07-05 04:07:56,863 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2017-07-05 04:07:57,226 [Worker-146] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:07:57,728 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2017-07-05 04:07:57,745 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2017-07-05 04:07:58,173 [Worker-146] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:07:58,722 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2017-07-05 04:07:58,775 [New I/O client worker #4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2017-07-05 04:08:00,525 [New I/O client worker #4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2017-07-05 04:08:03,074 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2017-07-05 04:08:05,113 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 04:08:05,145 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 04:08:05,148 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 04:08:05,179 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 04:08:06,418 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 04:08:06,450 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 04:08:06,458 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 04:08:06,489 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 04:21:48,130 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 04:21:48,163 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 04:21:48,167 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-05 04:21:48,213 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-05 04:24:14,954 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-07-05 04:24:24,807 [Worker-143] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Revision\Hibernate\maven-Demo1
+2017-07-05 04:24:24,810 [Worker-143] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-07-05 04:25:54,266 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-07-05 04:26:08,210 [Worker-156] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Revision\Hibernate\maven-Demo1
+2017-07-05 04:26:08,211 [Worker-156] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2017-07-05 04:27:20,095 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:21,074 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4-sources.jar
+2017-07-05 04:27:22,063 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4-sources.jar
+2017-07-05 04:27:22,704 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:23,267 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0.4/maven-core-3.0.4-sources.jar
+2017-07-05 04:27:25,846 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0.4/maven-core-3.0.4-sources.jar
+2017-07-05 04:27:26,582 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:27,126 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4-sources.jar
+2017-07-05 04:27:28,008 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4-sources.jar
+2017-07-05 04:27:28,875 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:30,744 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0.4/maven-settings-3.0.4-sources.jar
+2017-07-05 04:27:31,518 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0.4/maven-settings-3.0.4-sources.jar
+2017-07-05 04:27:32,072 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:32,591 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0.4/maven-settings-builder-3.0.4-sources.jar
+2017-07-05 04:27:33,535 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0.4/maven-settings-builder-3.0.4-sources.jar
+2017-07-05 04:27:34,078 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:34,570 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0.4/maven-repository-metadata-3.0.4-sources.jar
+2017-07-05 04:27:35,009 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0.4/maven-repository-metadata-3.0.4-sources.jar
+2017-07-05 04:27:35,546 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:36,070 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0.4/maven-artifact-3.0.4-sources.jar
+2017-07-05 04:27:37,656 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0.4/maven-artifact-3.0.4-sources.jar
+2017-07-05 04:27:38,259 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:38,785 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0.4/maven-plugin-api-3.0.4-sources.jar
+2017-07-05 04:27:39,386 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0.4/maven-plugin-api-3.0.4-sources.jar
+2017-07-05 04:27:39,942 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:40,468 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0.4/maven-model-builder-3.0.4-sources.jar
+2017-07-05 04:27:41,643 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0.4/maven-model-builder-3.0.4-sources.jar
+2017-07-05 04:27:42,179 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:42,758 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0.4/maven-aether-provider-3.0.4-sources.jar
+2017-07-05 04:27:43,463 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0.4/maven-aether-provider-3.0.4-sources.jar
+2017-07-05 04:27:44,000 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:44,520 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.13.1/aether-api-1.13.1-sources.jar
+2017-07-05 04:27:45,442 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.13.1/aether-api-1.13.1-sources.jar
+2017-07-05 04:27:46,086 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:46,592 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.13.1/aether-util-1.13.1-sources.jar
+2017-07-05 04:27:47,526 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.13.1/aether-util-1.13.1-sources.jar
+2017-07-05 04:27:48,240 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:48,781 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14-sources.jar
+2017-07-05 04:27:50,216 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14-sources.jar
+2017-07-05 04:27:50,803 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:51,337 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6-sources.jar
+2017-07-05 04:27:53,525 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6-sources.jar
+2017-07-05 04:27:54,202 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:54,719 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2017-07-05 04:27:54,873 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
+2017-07-05 04:27:55,491 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:55,999 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2017-07-05 04:27:56,424 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2017-07-05 04:27:57,238 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:57,777 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.0.4/maven-embedder-3.0.4-sources.jar
+2017-07-05 04:27:58,401 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.0.4/maven-embedder-3.0.4-sources.jar
+2017-07-05 04:27:58,950 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:27:59,461 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2017-07-05 04:27:59,588 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2017-07-05 04:28:00,226 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:00,726 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2017-07-05 04:28:01,597 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2017-07-05 04:28:02,370 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:02,920 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0.4/maven-compat-3.0.4-sources.jar
+2017-07-05 04:28:04,623 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0.4/maven-compat-3.0.4-sources.jar
+2017-07-05 04:28:05,348 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:05,910 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.2/wagon-provider-api-2.2-sources.jar
+2017-07-05 04:28:07,647 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.2/wagon-provider-api-2.2-sources.jar
+2017-07-05 04:28:08,318 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:08,853 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-shim/2.3.0/guice-plexus-shim-2.3.0-sources.jar
+2017-07-05 04:28:09,658 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-shim/2.3.0/guice-plexus-shim-2.3.0-sources.jar
+2017-07-05 04:28:10,260 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:10,766 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-reflect/2.3.0/guice-bean-reflect-2.3.0-sources.jar
+2017-07-05 04:28:11,561 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-reflect/2.3.0/guice-bean-reflect-2.3.0-sources.jar
+2017-07-05 04:28:12,118 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:12,627 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-locators/2.3.0/guice-bean-locators-2.3.0-sources.jar
+2017-07-05 04:28:13,502 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-locators/2.3.0/guice-bean-locators-2.3.0-sources.jar
+2017-07-05 04:28:14,051 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:14,557 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-binders/2.3.0/guice-bean-binders-2.3.0-sources.jar
+2017-07-05 04:28:15,181 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-binders/2.3.0/guice-bean-binders-2.3.0-sources.jar
+2017-07-05 04:28:15,720 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:16,266 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-scanners/2.3.0/guice-bean-scanners-2.3.0-sources.jar
+2017-07-05 04:28:17,122 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-scanners/2.3.0/guice-bean-scanners-2.3.0-sources.jar
+2017-07-05 04:28:17,640 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:18,150 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-converters/2.3.0/guice-bean-converters-2.3.0-sources.jar
+2017-07-05 04:28:18,211 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-converters/2.3.0/guice-bean-converters-2.3.0-sources.jar
+2017-07-05 04:28:18,927 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:19,454 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-metadata/2.3.0/guice-plexus-metadata-2.3.0-sources.jar
+2017-07-05 04:28:19,617 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-metadata/2.3.0/guice-plexus-metadata-2.3.0-sources.jar
+2017-07-05 04:28:20,157 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:20,690 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-converters/2.3.0/guice-plexus-converters-2.3.0-sources.jar
+2017-07-05 04:28:20,743 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-converters/2.3.0/guice-plexus-converters-2.3.0-sources.jar
+2017-07-05 04:28:21,425 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:22,038 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-locators/2.3.0/guice-plexus-locators-2.3.0-sources.jar
+2017-07-05 04:28:22,137 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-locators/2.3.0/guice-plexus-locators-2.3.0-sources.jar
+2017-07-05 04:28:22,627 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:23,130 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-binders/2.3.0/guice-plexus-binders-2.3.0-sources.jar
+2017-07-05 04:28:23,293 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-binders/2.3.0/guice-plexus-binders-2.3.0-sources.jar
+2017-07-05 04:28:23,806 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:24,354 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-inject/2.3.0/guice-bean-inject-2.3.0-sources.jar
+2017-07-05 04:28:24,429 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean-inject/2.3.0/guice-bean-inject-2.3.0-sources.jar
+2017-07-05 04:28:24,971 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:25,489 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-scanners/2.3.0/guice-plexus-scanners-2.3.0-sources.jar
+2017-07-05 04:28:25,606 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-scanners/2.3.0/guice-plexus-scanners-2.3.0-sources.jar
+2017-07-05 04:28:26,139 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:26,653 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-lifecycles/2.3.0/guice-plexus-lifecycles-2.3.0-sources.jar
+2017-07-05 04:28:26,873 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus-lifecycles/2.3.0/guice-plexus-lifecycles-2.3.0-sources.jar
+2017-07-05 04:28:27,386 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:27,919 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1-sources.jar
+2017-07-05 04:28:32,304 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1-sources.jar
+2017-07-05 04:28:33,284 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:33,794 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-connector-wagon/1.13.1/aether-connector-wagon-1.13.1-sources.jar
+2017-07-05 04:28:33,908 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-connector-wagon/1.13.1/aether-connector-wagon-1.13.1-sources.jar
+2017-07-05 04:28:34,550 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:35,049 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.13.1/aether-spi-1.13.1-sources.jar
+2017-07-05 04:28:35,580 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.13.1/aether-spi-1.13.1-sources.jar
+2017-07-05 04:28:36,316 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:36,836 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.13.1/aether-impl-1.13.1-sources.jar
+2017-07-05 04:28:37,438 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.13.1/aether-impl-1.13.1-sources.jar
+2017-07-05 04:28:38,044 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:38,574 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-connector-asynchttpclient/1.13.1/aether-connector-asynchttpclient-1.13.1-sources.jar
+2017-07-05 04:28:38,975 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/aether/aether-connector-asynchttpclient/1.13.1/aether-connector-asynchttpclient-1.13.1-sources.jar
+2017-07-05 04:28:39,549 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:40,063 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/maven/wagon-ahc/1.2.1/wagon-ahc-1.2.1-sources.jar
+2017-07-05 04:28:40,215 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/maven/wagon-ahc/1.2.1/wagon-ahc-1.2.1-sources.jar
+2017-07-05 04:28:40,351 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-07-05 04:28:40,802 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:41,323 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.2/wagon-file-2.2-sources.jar
+2017-07-05 04:28:41,429 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.2/wagon-file-2.2-sources.jar
+2017-07-05 04:28:42,085 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:42,647 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/ning/async-http-client/1.6.5/async-http-client-1.6.5-sources.jar
+2017-07-05 04:28:44,031 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/ning/async-http-client/1.6.5/async-http-client-1.6.5-sources.jar
+2017-07-05 04:28:44,660 [Worker-153] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-07-05 04:28:45,202 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar
+2017-07-05 04:28:48,279 [Worker-159] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Revision\Hibernate\maven-Demo1
+2017-07-05 04:28:48,279 [Worker-159] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2017-07-05 04:28:48,556 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/netty/netty/3.2.5.Final/netty-3.2.5.Final-sources.jar
+2017-07-05 12:46:20,633 [main] ERROR o.e.m2e.editor.pom.MavenPomEditor - The file does not exist.
+org.eclipse.ui.PartInitException: The file does not exist.
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3241) ~[org.eclipse.ui.workbench.texteditor_3.8.0.v20120523-1310.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3254) ~[org.eclipse.ui.workbench.texteditor_3.8.0.v20120523-1310.jar:na]
+	at org.eclipse.wst.sse.ui.StructuredTextEditor.init(StructuredTextEditor.java:2611) ~[org.eclipse.wst.sse.ui_1.3.102.v201301162301.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.addPage(MultiPageEditorPart.java:237) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.addPage(FormEditor.java:325) [org.eclipse.ui.forms_3.5.200.v20120521-2332.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.addPage(MultiPageEditorPart.java:211) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.addPage(FormEditor.java:308) [org.eclipse.ui.forms_3.5.200.v20120521-2332.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.addSourcePage(MavenPomEditor.java:622) [org.eclipse.m2e.editor_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.addPages(MavenPomEditor.java:375) [org.eclipse.m2e.editor_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.createPages(FormEditor.java:138) [org.eclipse.ui.forms_3.5.200.v20120521-2332.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.createPartControl(MultiPageEditorPart.java:348) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:670) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:465) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:315) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack.handleDeferredEvents(PartStack.java:1213) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartSashContainer.handleDeferredEvents(PartSashContainer.java:1409) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.handleDeferredEvents(WorkbenchPage.java:1508) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.deferUpdates(WorkbenchPage.java:1498) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1472) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1527) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorPane.doHide(EditorPane.java:61) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack.close(PartStack.java:537) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorStack.close(EditorStack.java:206) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack$1.close(PartStack.java:120) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:83) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:269) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:278) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$1.closeButtonPressed(DefaultTabFolder.java:71) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.PaneFolder.notifyCloseListeners(PaneFolder.java:631) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.PaneFolder$3.close(PaneFolder.java:206) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1599) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:261) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20120521-2332.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124) [org.eclipse.ui.ide.application_1.0.400.v20120523-1956.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.100.v20120522-1841.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_80]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_80]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_80]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_80]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: The file does not exist.
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:237) ~[org.eclipse.core.filebuffers_3.5.200.v20120523-1310.jar:na]
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:112) ~[org.eclipse.core.filebuffers_3.5.200.v20120523-1310.jar:na]
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:559) ~[org.eclipse.ui.editors_3.8.0.v20120523-1540.jar:na]
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:478) ~[org.eclipse.ui.editors_3.8.0.v20120523-1540.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4222) ~[org.eclipse.ui.workbench.texteditor_3.8.0.v20120523-1310.jar:na]
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:237) ~[org.eclipse.ui.workbench.texteditor_3.8.0.v20120523-1310.jar:na]
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1480) ~[org.eclipse.ui.editors_3.8.0.v20120523-1540.jar:na]
+	at org.eclipse.ui.editors.text.TextEditor.doSetInput(TextEditor.java:169) ~[org.eclipse.ui.editors_3.8.0.v20120523-1540.jar:na]
+	at org.eclipse.wst.sse.ui.StructuredTextEditor.doSetInput(StructuredTextEditor.java:1934) ~[org.eclipse.wst.sse.ui_1.3.102.v201301162301.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor$19.run(AbstractTextEditor.java:3209) ~[org.eclipse.ui.workbench.texteditor_3.8.0.v20120523-1310.jar:na]
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:464) ~[org.eclipse.jface_3.8.0.v20120912-135020.jar:na]
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:372) ~[org.eclipse.jface_3.8.0.v20120912-135020.jar:na]
+	at org.eclipse.jface.window.ApplicationWindow$1.run(ApplicationWindow.java:759) ~[org.eclipse.jface_3.8.0.v20120912-135020.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) ~[org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.jface.window.ApplicationWindow.run(ApplicationWindow.java:756) ~[org.eclipse.jface_3.8.0.v20120912-135020.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2649) ~[org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3227) ~[org.eclipse.ui.workbench.texteditor_3.8.0.v20120523-1310.jar:na]
+	... 65 common frames omitted
+2017-07-05 12:46:22,236 [main] ERROR o.e.m.editor.pom.MavenPomEditorPage - Resource '/maven-Demo1/pom.xml' does not exist.
+org.eclipse.core.internal.resources.ResourceException: Resource '/maven-Demo1/pom.xml' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341) ~[org.eclipse.core.resources_3.8.1.v20121114-124432.jar:na]
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215) ~[org.eclipse.core.resources_3.8.1.v20121114-124432.jar:na]
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:1039) ~[org.eclipse.core.resources_3.8.1.v20121114-124432.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage.doLoadData(MavenPomEditorPage.java:274) [org.eclipse.m2e.editor_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage.setActive(MavenPomEditorPage.java:226) [org.eclipse.m2e.editor_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.pageChange(FormEditor.java:486) [org.eclipse.ui.forms_3.5.200.v20120521-2332.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.pageChange(MavenPomEditor.java:398) [org.eclipse.m2e.editor_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.setActivePage(MultiPageEditorPart.java:1067) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.setActivePage(FormEditor.java:603) [org.eclipse.ui.forms_3.5.200.v20120521-2332.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.createPartControl(MultiPageEditorPart.java:352) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:670) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:465) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:315) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack.handleDeferredEvents(PartStack.java:1213) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartSashContainer.handleDeferredEvents(PartSashContainer.java:1409) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.handleDeferredEvents(WorkbenchPage.java:1508) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.deferUpdates(WorkbenchPage.java:1498) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1472) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1527) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorPane.doHide(EditorPane.java:61) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack.close(PartStack.java:537) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorStack.close(EditorStack.java:206) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack$1.close(PartStack.java:120) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:83) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:269) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:278) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$1.closeButtonPressed(DefaultTabFolder.java:71) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.PaneFolder.notifyCloseListeners(PaneFolder.java:631) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.PaneFolder$3.close(PaneFolder.java:206) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1599) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:261) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20120521-2332.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124) [org.eclipse.ui.ide.application_1.0.400.v20120523-1956.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.100.v20120522-1841.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_80]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_80]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_80]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_80]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+2017-07-05 12:46:22,267 [main] ERROR o.e.m.editor.pom.MavenPomEditorPage - Resource '/maven-Demo1/pom.xml' does not exist.
+org.eclipse.core.internal.resources.ResourceException: Resource '/maven-Demo1/pom.xml' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341) ~[org.eclipse.core.resources_3.8.1.v20121114-124432.jar:na]
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215) ~[org.eclipse.core.resources_3.8.1.v20121114-124432.jar:na]
+	at org.eclipse.core.internal.resources.Resource.findMarkers(Resource.java:1039) ~[org.eclipse.core.resources_3.8.1.v20121114-124432.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage.doLoadData(MavenPomEditorPage.java:274) [org.eclipse.m2e.editor_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage.setActive(MavenPomEditorPage.java:226) [org.eclipse.m2e.editor_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.ui.forms.editor.FormEditor.setActivePage(FormEditor.java:605) [org.eclipse.ui.forms_3.5.200.v20120521-2332.jar:na]
+	at org.eclipse.ui.part.MultiPageEditorPart.createPartControl(MultiPageEditorPart.java:352) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:670) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:465) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:595) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:315) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:180) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:270) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:473) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1245) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack.handleDeferredEvents(PartStack.java:1213) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartSashContainer.handleDeferredEvents(PartSashContainer.java:1409) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.handleDeferredEvents(WorkbenchPage.java:1508) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.deferUpdates(WorkbenchPage.java:1498) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1472) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1527) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorPane.doHide(EditorPane.java:61) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack.close(PartStack.java:537) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.EditorStack.close(EditorStack.java:206) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.PartStack$1.close(PartStack.java:120) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:83) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:269) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:278) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder.access$1(DefaultTabFolder.java:1) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.defaultpresentation.DefaultTabFolder$1.closeButtonPressed(DefaultTabFolder.java:71) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.PaneFolder.notifyCloseListeners(PaneFolder.java:631) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.presentations.PaneFolder$3.close(PaneFolder.java:206) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1599) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:261) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4169) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3758) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20120521-2332.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124) [org.eclipse.ui.ide.application_1.0.400.v20120523-1956.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.100.v20120522-1841.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_80]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_80]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_80]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_80]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+2017-07-05 12:46:22,837 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:460) ~[org.eclipse.m2e.core.ui_1.4.1.20140328-1905.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1128) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4144) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761) [org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar:na]
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20120521-2332.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149) [org.eclipse.ui.workbench_3.8.2.v20121128-133708.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124) [org.eclipse.ui.ide.application_1.0.400.v20120523-1956.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.100.v20120522-1841.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_80]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_80]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_80]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_80]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414) [org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar:na]

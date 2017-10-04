@@ -1,0 +1,8 @@
+package com.itcindia.service;
+
+import com.itcindia.dto.Account;
+
+public class BankingService {
+	public Account getAccountDetails()
+
+}

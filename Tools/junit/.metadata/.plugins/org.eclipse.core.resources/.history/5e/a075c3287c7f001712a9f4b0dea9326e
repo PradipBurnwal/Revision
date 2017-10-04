@@ -1,0 +1,21 @@
+package com.itcindia.FirstJunitTestCase4;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+
+public class CalculatorTest {
+	@Test
+	public void testAdd(){
+		int a = 10;
+		int b = 20;
+		int expectedSum = 31;
+		int actualSum = 0;
+		Calculator calculator = null;
+		
+		calculator = new Calculator();
+		actualSum = calculator.add(a,b);
+		assertEquals(expectedSum,actualSum);
+	}
+}

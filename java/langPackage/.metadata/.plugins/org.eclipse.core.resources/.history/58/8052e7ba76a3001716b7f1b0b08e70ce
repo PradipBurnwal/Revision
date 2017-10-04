@@ -1,0 +1,17 @@
+package com.itc.langStringPack;
+
+public class Lab022EndWith {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String str = "Hai, Welcome to ITC";
+		System.out.println(str.endsWith("ITC"));
+		System.out.println(str.endsWith("Welcome"));
+		System.out.println();
+		System.out.println(str.startsWith(""));
+		System.out.println(str.endsWith(" "));
+	}
+
+}

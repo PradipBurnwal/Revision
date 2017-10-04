@@ -1,0 +1,5 @@
+package com.itcindia.dto;
+
+public class Account {
+
+}

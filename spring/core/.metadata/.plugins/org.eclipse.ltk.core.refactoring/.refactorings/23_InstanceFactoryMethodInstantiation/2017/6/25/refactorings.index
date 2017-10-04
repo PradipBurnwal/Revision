@@ -1,0 +1,9 @@
+1497887930558	Rename type 'StockMarket'
+1497892887633	Rename package 'com.ifmi.ext.beans'
+1497893011180	Rename type 'StockManager'
+1497893037030	Rename type 'StockManagerImpl'
+1497895003001	Move compilation unit
+1497895087793	Rename package 'com.ifmi.extBse.beans'
+1497895138579	Rename type 'BseStockManager'
+1497895257513	Rename type 'BseStockTradeServiceLocator'
+1497895292153	Delete element

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="bus1" class="com.bi.beans.Bus">
+		<constructor-arg value="100" name="id"/>
+		<constructor-arg value="Sedan" name="model"/>
+		<constructor-arg value="Tata Moters" name="manufacturer"/>
+		<constructor-arg value="Red" name="color"/>
+		<constructor-arg value="Petrol" name="fuelType"/>
+		<constructor-arg value="250000" name="price"/>
+	</bean>
+	<bean id="bus2" class="com.bi.beans.Bus" parent="bus1">
+		<constructor-arg value="150" name="id"/>
+	</bean>
+	
+	<bean id="baseCar" class="com.bi.beans.Car" abstract="true">
+		<property name="model" value="Hashback"/>
+		<property name="manufacturer" value="Hundai"/>
+		<property name="fuelType" value="Diseal"/>
+	</bean>
+	<bean id="car1" class="com.bi.beans.Car" parent="baseCar">
+		<property name="id" value="155"/>
+		<property name="colour" value="Black"/>
+		<property name="price" value="300000"/>
+	</bean>
+	<bean id="car2" class="com.bi.beans.Car" parent="baseCar">
+		<property name="id" value="165"/>
+		<property name="colour" value="Blue"/>
+		<property name="price" value="400000"/>
+	</bean>
+	
+</beans>

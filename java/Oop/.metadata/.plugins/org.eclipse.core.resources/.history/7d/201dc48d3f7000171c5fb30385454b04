@@ -1,0 +1,14 @@
+package com.oop.overloading;
+
+public class Test {
+
+	public static void main(String[] args) {
+		A a = new A();
+		
+		Object obj1 = new Object();
+		Object obj2 = "Pradip";
+		Object obj3 = new Integer(1234);
+		
+	}
+
+}

@@ -1,0 +1,29 @@
+package com.itcindia.SecondJunitCase;
+
+import java.io.FileOutputStream;
+import java.util.Arrays;
+import java.util.List;
+
+import junit.framework.TestCase;
+
+public class TokenReaderTest extends TestCase{
+	private String INPUT_FILE_NM="e:\\test-data.txt";
+	private List<String> expectedToken;
+	@Override
+	protected void setUp() throws Exception {
+		String s = new String("cat,dog,human,lion");
+		
+		expectedToken = Arrays.asList(new String[]{"cat","dog","human","lion"});
+		FileOutputStream fos = new FileOutputStream(INPUT_FILE_NM);
+		fos.write(s.getBytes());
+		fos.close();
+		super.setUp();
+	}
+
+	@Override
+	protected void tearDown() throws Exception {
+
+		super.tearDown();
+	}
+	
+}

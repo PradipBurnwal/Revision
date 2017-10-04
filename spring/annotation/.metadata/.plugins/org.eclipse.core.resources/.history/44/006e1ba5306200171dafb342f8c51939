@@ -1,0 +1,9 @@
+package com.dependsOn9.test;
+
+public class CacheManager {
+
+	public CacheManager() {
+		System.out.println("loading data....");
+	}
+	
+}

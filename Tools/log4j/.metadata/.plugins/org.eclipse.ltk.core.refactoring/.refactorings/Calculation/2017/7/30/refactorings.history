@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Addition.java&apos; to &apos;6_UsingBasicConfigurator_DefaultConsoleAppender_SimpleLayout/src/com.itc.log4j&apos;&#x0D;&#x0A;- Original project: &apos;Calculation&apos;&#x0D;&#x0A;- Destination element: &apos;6_UsingBasicConfigurator_DefaultConsoleAppender_SimpleLayout/src/com.itc.log4j&apos;&#x0D;&#x0A;- Original element: &apos;com.itc.log4j.Addition.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=6_UsingBasicConfigurator_DefaultConsoleAppender_SimpleLayout/src&lt;com.itc.log4j" element1="/src&lt;com.itc.log4j{Addition.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1501134653214" units="1" version="1.0"/>
+</session>

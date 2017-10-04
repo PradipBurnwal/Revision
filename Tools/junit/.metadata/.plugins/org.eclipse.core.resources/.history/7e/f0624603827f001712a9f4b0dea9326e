@@ -1,0 +1,25 @@
+package com.itcindia.SecondJunitCase;
+
+import java.util.Arrays;
+import java.util.List;
+
+import junit.framework.TestCase;
+
+public class TokenReaderTest extends TestCase{
+	private String INPUT_FILE_NM="e:\\test-data.txt";
+	private List<String> expectedToken;
+	@Override
+	protected void setUp() throws Exception {
+		String s = new String("cat,dog,human,lion");
+		
+		expectedToken = Arrays.asList("cat","dog","human","lion");
+		super.setUp();
+	}
+
+	@Override
+	protected void tearDown() throws Exception {
+
+		super.tearDown();
+	}
+	
+}

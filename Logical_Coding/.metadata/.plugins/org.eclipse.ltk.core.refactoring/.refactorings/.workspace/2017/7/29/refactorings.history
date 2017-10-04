@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;com.array.1_displayAllTheElementsOnArray&apos; to &apos;ArraysCodding&apos;&#x0D;&#x0A;- Original element: &apos;com.array.1_displayAllTheElementsOnArray&apos;&#x0D;&#x0A;- Renamed element: &apos;com.array.1_displayAllTheElementsOnArray&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;com.array.1_displayAllTheElementsOnArray&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=com.array.1_displayAllTheElementsOnArray" name="ArraysCodding" references="true" stamp="1500182583283" version="1.0"/>
+</session>

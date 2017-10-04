@@ -1,0 +1,5 @@
+package com.doc.beans;
+
+public class LoanCalculator {
+
+}

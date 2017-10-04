@@ -1,0 +1,5 @@
+package com.cpe.editor;
+
+public class ComplexNumberPropertyEditor {
+
+}

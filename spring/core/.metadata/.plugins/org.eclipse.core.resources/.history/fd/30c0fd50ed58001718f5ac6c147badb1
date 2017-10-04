@@ -1,0 +1,33 @@
+package com.mr.beans;
+
+import java.lang.reflect.Method;
+
+import org.springframework.beans.factory.support.MethodReplacer;
+
+public class FindPlansReplacer implements MethodReplacer{
+
+	@Override
+	public Object reimplement(Object target, Method method, Object[] args)
+			throws Throwable {
+		if(method.getName().equals("findPlans")){
+			int ageGroup = 0;
+			int zip = 0;
+			int copay = 0;
+			int networkType = 0;
+			int coverageType = 0;
+			
+			ageGroup = (int) args[0];
+			zip = (int) args[1];
+			copay = (int) args[2];
+			networkType= (int) args[3];
+			coverageType = (int) args[4];
+			
+			System.out.println("Computing the matching plan with ageGroup : "+ageGroup+" zip : "+zip+" copay : "+copay+" networkType : "+networkType+" coverage : "+coverageType);
+			
+			//business rule in recomputing the plans with new Algorithum
+			return new String()[]{"Abhaya Gold","Abhaya Silver"};
+		}
+		return null;
+	}
+
+}

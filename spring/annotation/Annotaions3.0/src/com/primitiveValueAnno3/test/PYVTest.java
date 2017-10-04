@@ -1,0 +1,14 @@
+package com.primitiveValueAnno3.test;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class PYVTest {
+
+	public static void main(String[] args) {
+		ApplicationContext context = new ClassPathXmlApplicationContext("com/primitiveValueAnno3/test/pv-beans.xml");
+		Rocket rocket = context.getBean("rocket", Rocket.class);
+		System.out.println(rocket);
+	}
+
+}

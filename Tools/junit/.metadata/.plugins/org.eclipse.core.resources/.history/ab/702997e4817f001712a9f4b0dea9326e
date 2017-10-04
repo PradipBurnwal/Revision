@@ -1,0 +1,19 @@
+package com.itcindia.SecondJunitCase;
+
+import junit.framework.TestCase;
+
+public class TokenReaderTest extends TestCase{
+	private String INPUT_FILE_NM="e:\\test-data.txt";
+	@Override
+	protected void setUp() throws Exception {
+		String s = new String("cat,dog,human,lion");
+		super.setUp();
+	}
+
+	@Override
+	protected void tearDown() throws Exception {
+
+		super.tearDown();
+	}
+	
+}

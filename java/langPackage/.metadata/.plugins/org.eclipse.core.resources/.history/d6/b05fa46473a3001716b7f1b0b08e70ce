@@ -1,0 +1,15 @@
+package com.itc.langStringPack;
+
+public class Lab020Trim {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String st1 = "ITCInfotech";
+		String st2 = st1.trim();
+		System.out.println(st1 == st2);
+		
+	}
+
+}

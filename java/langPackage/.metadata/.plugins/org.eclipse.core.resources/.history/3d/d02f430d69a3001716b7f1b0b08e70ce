@@ -1,0 +1,17 @@
+package com.itc.langStringPack;
+
+public class Lab010StringConcat {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String st1 = "ITC";
+		String st2 = "India";
+		String st3 = st1.concat(st2);
+		System.out.println(st3);
+		String st4 = "ITCIndia";
+		System.out.println(st3 == st4);
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.blc.beans;
+
+public class Calculator {
+
+}

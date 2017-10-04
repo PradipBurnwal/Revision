@@ -1,0 +1,17 @@
+package com.itcindia.testFixture;
+
+public class PalindromeTest {
+	private Palindrome palindrome;
+	private String palindromeIn;
+	private String nonPalindromeIn;
+	
+	public static void load(){
+		System.out.println("load()");
+	}
+	public void init(){
+		System.out.println("init()");
+		palindrome = new Palindrome();
+		palindromeIn = "malayalam";
+		nonPalindromeIn = "india";
+	}
+}

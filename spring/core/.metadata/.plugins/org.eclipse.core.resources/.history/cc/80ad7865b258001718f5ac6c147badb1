@@ -1,0 +1,13 @@
+package com.blcp.test;
+
+public class BLCPTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

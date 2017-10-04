@@ -1,0 +1,15 @@
+package com.itc.langStringPack;
+
+public class Lab027CharAt {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String str = "ITCIndia";
+		int len = str.length();
+		System.out.println(str+"\t"+len);
+		System.out.println(str.charAt(0));
+	}
+
+}

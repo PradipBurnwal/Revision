@@ -1,0 +1,13 @@
+package com.itc.log4j;
+
+
+public class Addition {
+	public int add(int a, int b){
+		if(a>0 && b>0){
+			return (a+b);
+		}else{
+			throw new IllegalArgumentException("No. must be Greater then 0");
+		}
+		
+	}
+}

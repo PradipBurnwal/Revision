@@ -1,0 +1,17 @@
+package com.oop.superParantesis;
+
+public class Sample extends Example {
+	
+
+
+	public Sample(int a) {
+		super(a);
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		System.out.println("main");
+		Sample s = new Sample(10);
+	}
+
+}

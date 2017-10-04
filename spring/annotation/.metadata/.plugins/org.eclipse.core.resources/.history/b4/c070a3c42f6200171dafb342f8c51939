@@ -1,0 +1,10 @@
+package com.stjc8.test;
+
+public class Walky {
+	
+	private Microphone microphone;
+	
+	public void speak(String message){
+		microphone.transfer(message);
+	}
+}

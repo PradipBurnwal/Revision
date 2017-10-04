@@ -1,0 +1,17 @@
+package com.jcaa6.test;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AwAppConfig {
+	@Bean(name="sand-machine")
+	public Machine newSandMachine(){
+		return new Machine();
+	}
+	
+	@Bean(name="rock-machine")
+	public Machine newRockMachine(){
+		return new Machine();
+	}
+}

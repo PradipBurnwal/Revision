@@ -1,0 +1,16 @@
+package com.blc.beans;
+
+public class Robot {
+	private String name;
+	private SenserDriver driver;
+	
+	public Robot(SenserDriver driver) {
+		this.driver = driver;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	
+}

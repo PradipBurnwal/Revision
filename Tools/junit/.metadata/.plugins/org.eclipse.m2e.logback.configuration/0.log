@@ -1,0 +1,973 @@
+2017-08-12 20:17:15,460 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Revision\Tools\junit\FirstJunitTestCase4\pom.xml
+2017-08-12 20:17:23,133 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:FirstJunitTestCase4:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\FirstJunitTestCase4\pom.xml.
+2017-08-12 20:17:27,909 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:FirstJunitTestCase4:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\FirstJunitTestCase4\pom.xml.
+2017-08-12 20:17:27,940 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstJunitTestCase4/src/main/java
+2017-08-12 20:17:27,955 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstJunitTestCase4/src/test/java
+2017-08-12 20:17:28,325 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 12 sec
+2017-08-12 20:17:36,354 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:FirstJunitTestCase4:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\FirstJunitTestCase4\pom.xml.
+2017-08-12 20:17:36,619 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 20:17:36,619 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 20:17:36,626 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 20:17:36,627 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 20:21:07,520 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 20:21:07,521 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 20:21:07,522 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 20:21:07,522 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 21:40:10,600 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:FirstJunitTestCase4:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\FirstJunitTestCase4\pom.xml.
+2017-08-12 21:40:11,730 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:40:11,731 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 21:40:11,735 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:40:11,735 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 21:40:13,149 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:40:13,149 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 21:40:13,153 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:40:13,153 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 21:40:55,515 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:40:55,515 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 21:40:55,519 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:40:55,519 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 21:41:21,113 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:41:21,117 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 21:41:21,117 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:41:21,117 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 21:49:23,687 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:49:23,687 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 21:49:23,691 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:49:23,692 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 21:49:48,556 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:49:48,556 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 21:49:48,560 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:49:48,560 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 21:54:07,720 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:54:07,720 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 21:54:07,724 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:54:07,724 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 21:54:53,577 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:54:53,577 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 21:54:53,581 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 21:54:53,581 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 22:01:04,122 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:01:04,122 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 22:01:04,126 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:01:04,126 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 22:01:41,985 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:01:41,985 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 22:01:41,989 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:01:41,989 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 22:02:21,126 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:02:21,126 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 22:02:21,130 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:02:21,130 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 22:04:49,638 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:04:49,638 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 22:04:49,642 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:04:49,642 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 22:05:18,641 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:05:18,641 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 22:05:18,644 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:05:18,645 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 22:06:30,060 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:06:30,060 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\main\resources
+2017-08-12 22:06:30,064 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:06:30,064 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\FirstJunitTestCase4\src\test\resources
+2017-08-12 22:08:24,186 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:FirstJunitTestCase4:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\2_FirstJunitTestCase4\pom.xml.
+2017-08-12 22:08:24,570 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:08:24,570 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_FirstJunitTestCase4\src\main\resources
+2017-08-12 22:08:24,574 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:08:24,574 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_FirstJunitTestCase4\src\test\resources
+2017-08-12 22:08:25,575 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:FirstJunitTestCase4:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\2_FirstJunitTestCase4\pom.xml.
+2017-08-12 22:08:26,239 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:08:26,239 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_FirstJunitTestCase4\src\main\resources
+2017-08-12 22:08:26,247 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:08:26,247 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_FirstJunitTestCase4\src\test\resources
+2017-08-12 22:13:05,895 [Worker-47] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Revision\Tools\junit\2_SecondJunitCase\pom.xml
+2017-08-12 22:13:06,183 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:2_SecondJunitCase:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\2_SecondJunitCase\pom.xml.
+2017-08-12 22:13:06,664 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2_SecondJunitCase/src/main/java
+2017-08-12 22:13:06,680 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2_SecondJunitCase/src/test/java
+2017-08-12 22:13:06,860 [Worker-47] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2017-08-12 22:13:07,550 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:2_SecondJunitCase:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\2_SecondJunitCase\pom.xml.
+2017-08-12 22:13:07,900 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:13:07,900 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitCase\src\main\resources
+2017-08-12 22:13:07,904 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:13:07,904 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitCase\src\test\resources
+2017-08-12 22:13:08,101 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:2_SecondJunitCase:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\2_SecondJunitCase\pom.xml.
+2017-08-12 22:13:09,017 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:13:09,017 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitCase\src\main\resources
+2017-08-12 22:13:09,021 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:13:09,021 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitCase\src\test\resources
+2017-08-12 22:13:35,291 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:13:35,291 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitCase\src\main\resources
+2017-08-12 22:13:35,295 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:13:35,295 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitCase\src\test\resources
+2017-08-12 22:14:03,493 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:2_SecondJunitCase:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\2_SecondJunitTestCase\pom.xml.
+2017-08-12 22:14:03,577 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:14:03,577 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:14:03,580 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:14:03,580 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:14:03,978 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:2_SecondJunitCase:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\2_SecondJunitTestCase\pom.xml.
+2017-08-12 22:14:04,746 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:14:04,746 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:14:04,750 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:14:04,750 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:15:06,445 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:15:06,445 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:15:06,449 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:15:06,449 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:23:51,189 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:23:51,189 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:23:51,193 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:23:51,193 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:26:53,800 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:26:53,801 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:26:53,804 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:26:53,804 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:28:02,423 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:28:02,423 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:28:02,427 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:28:02,427 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:28:15,318 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:28:15,318 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:28:15,322 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:28:15,322 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:32:23,237 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:32:23,237 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:32:23,240 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:32:23,241 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:32:47,234 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:32:47,234 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:32:47,238 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:32:47,238 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:34:29,083 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:34:29,083 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:34:29,087 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:34:29,087 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:43:27,088 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:43:27,088 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:43:27,091 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:43:27,092 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:45:52,300 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:45:52,300 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:45:52,303 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:45:52,304 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:46:43,779 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:46:43,780 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:46:43,783 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:46:43,783 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:47:12,816 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:47:12,816 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:47:12,819 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:47:12,820 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:49:21,959 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:49:21,960 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:49:21,963 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:49:21,963 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:51:09,389 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:51:09,389 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:51:09,392 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:51:09,393 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:56:20,255 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:56:20,256 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:56:20,259 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:56:20,260 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 22:56:32,846 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:56:32,847 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 22:56:32,850 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 22:56:32,850 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 23:01:00,048 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:01:00,048 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 23:01:00,052 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:01:00,052 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 23:02:43,803 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:02:43,804 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 23:02:43,806 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:02:43,807 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 23:03:45,727 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:03:45,728 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 23:03:45,731 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:03:45,731 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 23:04:16,942 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:04:16,942 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 23:04:16,945 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:04:16,945 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 23:05:17,029 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:05:17,029 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 23:05:17,032 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:05:17,032 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 23:05:27,335 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:05:27,335 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-12 23:05:27,338 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:05:27,339 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-12 23:06:36,881 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:FirstJunitTestCase4:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\3_FirstJunitTestCase4\pom.xml.
+2017-08-12 23:06:37,033 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:06:37,034 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\3_FirstJunitTestCase4\src\main\resources
+2017-08-12 23:06:37,037 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:06:37,037 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\3_FirstJunitTestCase4\src\test\resources
+2017-08-12 23:06:37,443 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:FirstJunitTestCase4:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\3_FirstJunitTestCase4\pom.xml.
+2017-08-12 23:06:38,197 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:06:38,197 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\3_FirstJunitTestCase4\src\main\resources
+2017-08-12 23:06:38,200 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:06:38,201 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\3_FirstJunitTestCase4\src\test\resources
+2017-08-12 23:09:40,516 [Worker-57] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Revision\Tools\junit\4_ParameterizedTest\pom.xml
+2017-08-12 23:09:40,762 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:4_ParameterizedTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\4_ParameterizedTest\pom.xml.
+2017-08-12 23:09:41,041 [Worker-57] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4_ParameterizedTest/src/main/java
+2017-08-12 23:09:41,050 [Worker-57] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4_ParameterizedTest/src/test/java
+2017-08-12 23:09:41,221 [Worker-57] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2017-08-12 23:09:41,732 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:4_ParameterizedTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\4_ParameterizedTest\pom.xml.
+2017-08-12 23:09:42,103 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:09:42,103 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:09:42,107 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:09:42,107 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-12 23:09:42,467 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:4_ParameterizedTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\4_ParameterizedTest\pom.xml.
+2017-08-12 23:09:43,156 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:09:43,157 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:09:43,160 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:09:43,160 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-12 23:10:50,842 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:4_ParameterizedTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\4_ParameterizedTest\pom.xml.
+2017-08-12 23:10:51,015 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:10:51,015 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:10:51,018 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:10:51,018 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-12 23:10:52,278 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:10:52,278 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:10:52,281 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:10:52,281 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-12 23:11:18,655 [Worker-61] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-12 23:11:18,831 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:4_ParameterizedTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\4_ParameterizedTest\pom.xml.
+2017-08-12 23:11:18,988 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4_ParameterizedTest/src/main/java
+2017-08-12 23:11:18,989 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4_ParameterizedTest/src/test/java
+2017-08-12 23:11:19,175 [Worker-61] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-08-12 23:11:19,382 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:11:19,383 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:11:19,385 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:11:19,386 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-12 23:12:18,291 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:12:18,291 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:12:18,294 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:12:18,295 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-12 23:12:38,006 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:12:38,006 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:12:38,009 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:12:38,010 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-12 23:16:42,915 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:16:42,915 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:16:42,918 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:16:42,919 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-12 23:19:54,932 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-12 23:19:55,113 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:4_ParameterizedTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\4_ParameterizedTest\pom.xml.
+2017-08-12 23:19:55,278 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4_ParameterizedTest/src/main/java
+2017-08-12 23:19:55,279 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /4_ParameterizedTest/src/test/java
+2017-08-12 23:19:55,455 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-08-12 23:19:55,633 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:19:55,633 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:19:55,637 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:19:55,637 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-12 23:20:46,706 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:20:46,706 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:20:46,709 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:20:46,709 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-12 23:21:16,889 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:21:16,890 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:21:16,894 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:21:16,894 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-12 23:22:16,220 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:22:16,220 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-12 23:22:16,223 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-12 23:22:16,224 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-13 00:11:57,783 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 00:11:57,784 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\3_FirstJunitTestCase4\src\main\resources
+2017-08-13 00:11:57,785 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 00:11:57,785 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\3_FirstJunitTestCase4\src\test\resources
+2017-08-13 01:04:51,451 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:04:51,452 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-13 01:04:51,455 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:04:51,455 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-13 01:05:51,773 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:05:51,773 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-13 01:05:51,776 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:05:51,777 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-13 01:09:33,621 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:09:33,622 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-13 01:09:33,625 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:09:33,625 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-13 01:09:41,904 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:09:41,904 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-13 01:09:41,907 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:09:41,907 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-13 01:09:47,257 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:09:47,257 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\main\resources
+2017-08-13 01:09:47,272 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:09:47,272 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_ParameterizedTest\src\test\resources
+2017-08-13 01:32:50,171 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Revision\Tools\junit\5_TestFixture\pom.xml
+2017-08-13 01:32:53,918 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:5_TestFixture:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\5_TestFixture\pom.xml.
+2017-08-13 01:32:55,725 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5_TestFixture/src/main/java
+2017-08-13 01:32:55,737 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5_TestFixture/src/test/java
+2017-08-13 01:32:56,026 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 5 sec
+2017-08-13 01:32:56,217 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:5_TestFixture:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\5_TestFixture\pom.xml.
+2017-08-13 01:33:02,269 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:33:02,269 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 01:33:02,284 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:33:02,284 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 01:33:29,314 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:33:29,314 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 01:33:29,317 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:33:29,317 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 01:34:01,528 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:34:01,528 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 01:34:01,533 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:34:01,533 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 01:34:35,215 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:34:35,215 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 01:34:35,215 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:34:35,215 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 01:34:53,357 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:34:53,357 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 01:34:53,357 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:34:53,357 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 01:41:09,162 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:41:09,163 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 01:41:09,166 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:41:09,166 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 01:42:31,758 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:42:31,758 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 01:42:31,777 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:42:31,777 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 01:45:56,341 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:45:56,341 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 01:45:56,341 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:45:56,341 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 01:47:44,948 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:47:44,948 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 01:47:44,963 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:47:44,963 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 01:50:16,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:50:16,515 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 01:50:16,518 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 01:50:16,518 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:00:47,562 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:00:47,562 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:00:47,562 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:00:47,562 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:02:49,664 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:5_TestFixture:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\5_TestFixture\pom.xml.
+2017-08-13 02:02:49,885 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:02:49,886 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:02:49,889 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:02:49,889 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:02:51,061 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:02:51,061 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:02:51,076 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:02:51,076 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:03:02,203 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-13 02:03:02,388 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:5_TestFixture:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\5_TestFixture\pom.xml.
+2017-08-13 02:03:02,557 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5_TestFixture/src/main/java
+2017-08-13 02:03:02,557 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5_TestFixture/src/test/java
+2017-08-13 02:03:02,757 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-08-13 02:03:02,952 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:03:02,952 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:03:02,955 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:03:02,956 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:03:23,586 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-13 02:03:23,802 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:5_TestFixture:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\5_TestFixture\pom.xml.
+2017-08-13 02:03:23,956 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5_TestFixture/src/main/java
+2017-08-13 02:03:23,956 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /5_TestFixture/src/test/java
+2017-08-13 02:03:24,135 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-08-13 02:03:24,320 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:03:24,320 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:03:24,320 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:03:24,320 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:04:33,078 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:04:33,078 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:04:33,095 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:04:33,096 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:05:14,701 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:05:14,701 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:05:14,701 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:05:14,701 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:05:54,627 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:05:54,627 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:05:54,627 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:05:54,627 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:11:09,065 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:11:09,065 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:11:09,065 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:11:09,065 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:11:23,842 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:11:23,842 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:11:23,842 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:11:23,842 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:12:14,083 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:12:14,083 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:12:14,083 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:12:14,083 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:12:58,122 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:12:58,123 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\main\resources
+2017-08-13 02:12:58,126 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:12:58,126 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_TestFixture\src\test\resources
+2017-08-13 02:15:09,114 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:4_ParameterizedTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\5_ParameterizedTest\pom.xml.
+2017-08-13 02:15:09,246 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:15:09,246 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_ParameterizedTest\src\main\resources
+2017-08-13 02:15:09,246 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:15:09,246 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_ParameterizedTest\src\test\resources
+2017-08-13 02:15:10,215 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:4_ParameterizedTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\5_ParameterizedTest\pom.xml.
+2017-08-13 02:15:10,832 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:15:10,832 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_ParameterizedTest\src\main\resources
+2017-08-13 02:15:10,848 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:15:10,848 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_ParameterizedTest\src\test\resources
+2017-08-13 02:15:23,780 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:5_TestFixture:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\4_TestFixture\pom.xml.
+2017-08-13 02:15:24,212 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:15:24,212 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_TestFixture\src\main\resources
+2017-08-13 02:15:24,212 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:15:24,212 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_TestFixture\src\test\resources
+2017-08-13 02:15:25,144 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:5_TestFixture:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\4_TestFixture\pom.xml.
+2017-08-13 02:15:25,863 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:15:25,863 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_TestFixture\src\main\resources
+2017-08-13 02:15:25,866 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:15:25,867 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_TestFixture\src\test\resources
+2017-08-13 02:16:27,415 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:5_TestFixture:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\4_TestFixtures\pom.xml.
+2017-08-13 02:16:27,546 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:16:27,546 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_TestFixtures\src\main\resources
+2017-08-13 02:16:27,546 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:16:27,546 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_TestFixtures\src\test\resources
+2017-08-13 02:16:27,931 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:5_TestFixture:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\4_TestFixtures\pom.xml.
+2017-08-13 02:16:28,688 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:16:28,688 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_TestFixtures\src\main\resources
+2017-08-13 02:16:28,688 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:16:28,688 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_TestFixtures\src\test\resources
+2017-08-13 02:20:00,249 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Revision\Tools\junit\6_ExceptionTest\pom.xml
+2017-08-13 02:20:00,450 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:6_ExceptionTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\6_ExceptionTest\pom.xml.
+2017-08-13 02:20:00,898 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /6_ExceptionTest/src/main/java
+2017-08-13 02:20:00,920 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /6_ExceptionTest/src/test/java
+2017-08-13 02:20:01,083 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2017-08-13 02:20:01,573 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:6_ExceptionTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\6_ExceptionTest\pom.xml.
+2017-08-13 02:20:01,889 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:20:01,889 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:20:01,904 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:20:01,904 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:20:02,274 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:6_ExceptionTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\6_ExceptionTest\pom.xml.
+2017-08-13 02:20:02,941 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:20:02,941 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:20:02,944 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:20:02,944 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:21:04,998 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:6_ExceptionTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\6_ExceptionTest\pom.xml.
+2017-08-13 02:21:05,328 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-08-13 02:21:08,170 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2017-08-13 02:21:08,188 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2017-08-13 02:21:08,627 [Worker-6] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2017-08-13 02:21:09,243 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2017-08-13 02:21:12,931 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2017-08-13 02:21:14,575 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:2_SecondJunitCase:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\2_SecondJunitTestCase\pom.xml.
+2017-08-13 02:21:14,760 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:FirstJunitTestCase4:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\3_FirstJunitTestCase4\pom.xml.
+2017-08-13 02:21:14,892 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:4_ParameterizedTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\5_ParameterizedTest\pom.xml.
+2017-08-13 02:21:15,030 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:5_TestFixture:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\4_TestFixtures\pom.xml.
+2017-08-13 02:21:15,330 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:15,330 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:21:15,330 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:15,330 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:21:16,439 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:16,440 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\main\resources
+2017-08-13 02:21:16,443 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:16,443 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\2_SecondJunitTestCase\src\test\resources
+2017-08-13 02:21:16,479 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:16,480 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\3_FirstJunitTestCase4\src\main\resources
+2017-08-13 02:21:16,482 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:16,483 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\3_FirstJunitTestCase4\src\test\resources
+2017-08-13 02:21:16,521 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:16,522 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_TestFixtures\src\main\resources
+2017-08-13 02:21:16,526 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:16,526 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\4_TestFixtures\src\test\resources
+2017-08-13 02:21:16,570 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:16,571 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_ParameterizedTest\src\main\resources
+2017-08-13 02:21:16,574 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:16,575 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\5_ParameterizedTest\src\test\resources
+2017-08-13 02:21:16,680 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:16,680 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:21:16,683 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:16,683 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:21:23,223 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:6_ExceptionTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\6_ExceptionTest\pom.xml.
+2017-08-13 02:21:23,407 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:23,407 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:21:23,407 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:23,407 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:21:24,641 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:24,641 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:21:24,641 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:24,641 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:21:32,391 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-13 02:21:32,544 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:6_ExceptionTest:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\6_ExceptionTest\pom.xml.
+2017-08-13 02:21:32,698 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /6_ExceptionTest/src/main/java
+2017-08-13 02:21:32,698 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /6_ExceptionTest/src/test/java
+2017-08-13 02:21:32,876 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-08-13 02:21:33,061 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:33,061 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:21:33,061 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:21:33,061 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:22:16,695 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:22:16,695 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:22:16,695 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:22:16,695 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:22:50,438 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:22:50,438 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:22:50,438 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:22:50,438 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:23:01,769 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:23:01,769 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:23:01,769 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:23:01,769 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:23:15,148 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:23:15,148 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:23:15,148 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:23:15,148 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:24:27,453 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:24:27,453 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:24:27,453 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:24:27,453 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:25:18,953 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:25:18,953 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:25:18,953 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:25:18,953 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:33:51,171 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:33:51,171 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:33:51,171 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:33:51,171 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:33:58,295 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:33:58,295 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:33:58,295 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:33:58,295 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 02:34:21,291 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:34:21,291 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 02:34:21,291 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 02:34:21,291 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 09:46:04,292 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:46:04,307 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 09:46:04,323 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:46:04,323 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 09:46:31,058 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:46:31,059 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 09:46:31,062 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:46:31,063 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 09:47:47,870 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:47:47,870 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 09:47:47,870 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:47:47,870 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 09:48:17,878 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:48:17,878 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 09:48:17,878 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:48:17,878 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 09:49:33,754 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:49:33,754 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 09:49:33,754 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:49:33,754 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 09:50:28,529 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:50:28,529 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 09:50:28,529 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:50:28,529 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 09:52:28,375 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:52:28,375 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 09:52:28,391 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 09:52:28,391 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:00:42,572 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:00:42,572 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:00:42,572 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:00:42,572 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:10:05,494 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:10:05,494 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:10:05,512 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:10:05,512 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:25:39,515 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:25:39,515 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:25:39,515 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:25:39,515 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:31:49,746 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:31:49,746 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:31:49,746 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:31:49,746 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:35:56,784 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:35:56,784 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:35:56,784 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:35:56,784 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:36:33,930 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:36:33,930 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:36:33,946 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:36:33,946 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:37:52,377 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:37:52,377 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:37:52,377 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:37:52,377 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:37:58,307 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:37:58,307 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:37:58,307 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:37:58,307 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:43:41,682 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:43:41,682 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:43:41,682 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:43:41,682 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:44:17,240 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:44:17,240 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:44:17,240 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:44:17,240 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:45:19,135 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:45:19,135 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:45:19,135 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:45:19,135 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:47:12,993 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:47:12,993 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:47:12,993 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:47:13,009 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:47:23,748 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:47:23,748 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:47:23,748 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:47:23,748 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:49:29,351 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:49:29,351 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:49:29,351 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:49:29,351 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:49:35,288 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:49:35,288 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:49:35,288 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:49:35,288 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:49:41,312 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:49:41,312 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:49:41,312 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:49:41,312 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:50:16,499 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:50:16,500 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:50:16,503 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:50:16,503 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:54:32,222 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:54:32,222 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:54:32,222 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:54:32,222 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:57:42,649 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:57:42,649 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:57:42,649 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:57:42,649 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:58:00,923 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:58:00,923 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:58:00,923 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:58:00,923 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 10:58:11,315 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:58:11,331 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 10:58:11,335 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 10:58:11,335 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 11:00:37,851 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:00:37,851 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 11:00:37,851 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:00:37,851 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 11:04:55,981 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:04:55,981 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 11:04:55,981 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:04:55,997 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 11:05:14,256 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:05:14,256 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 11:05:14,259 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:05:14,260 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 11:05:57,778 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:05:57,778 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 11:05:57,778 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:05:57,778 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 11:06:57,835 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:06:57,835 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 11:06:57,835 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:06:57,835 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 11:12:19,853 [Worker-68] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Revision\Tools\junit\7_Timeout\pom.xml
+2017-08-13 11:12:23,410 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:7_Timeout:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\7_Timeout\pom.xml.
+2017-08-13 11:12:25,344 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /7_Timeout/src/main/java
+2017-08-13 11:12:25,359 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /7_Timeout/src/test/java
+2017-08-13 11:12:25,460 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:7_Timeout:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\7_Timeout\pom.xml.
+2017-08-13 11:12:25,682 [Worker-68] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 5 sec
+2017-08-13 11:12:26,662 [Worker-70] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:7_Timeout:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\7_Timeout\pom.xml.
+2017-08-13 11:12:26,830 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:12:26,830 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 11:12:26,830 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:12:26,830 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 11:13:33,596 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:7_Timeout:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\7_Timeout\pom.xml.
+2017-08-13 11:13:33,865 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:13:33,865 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 11:13:33,865 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:13:33,865 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 11:13:35,247 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:13:35,247 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 11:13:35,264 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:13:35,264 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 11:13:51,245 [Worker-70] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-13 11:13:51,430 [Worker-70] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:7_Timeout:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\7_Timeout\pom.xml.
+2017-08-13 11:13:51,598 [Worker-70] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /7_Timeout/src/main/java
+2017-08-13 11:13:51,599 [Worker-70] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /7_Timeout/src/test/java
+2017-08-13 11:13:51,799 [Worker-70] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-08-13 11:13:52,015 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:13:52,015 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 11:13:52,015 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:13:52,031 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 11:14:58,412 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:14:58,412 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 11:14:58,412 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:14:58,412 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 11:15:43,340 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:15:43,340 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 11:15:43,340 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 11:15:43,340 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:03:36,685 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:03:36,716 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\main\resources
+2017-08-13 12:03:36,716 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:03:36,716 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\6_ExceptionTest\src\test\resources
+2017-08-13 12:03:41,392 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:7_Timeout:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\7_Timeout\pom.xml.
+2017-08-13 12:03:41,961 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:03:41,961 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:03:41,961 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:03:41,961 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:04:44,747 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:04:44,747 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:04:44,747 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:04:44,747 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:10:46,652 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:10:46,652 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:10:46,652 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:10:46,652 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:11:20,669 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:11:20,669 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:11:20,669 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:11:20,669 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:12:42,528 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:12:42,528 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:12:42,528 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:12:42,528 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:18:08,494 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:18:08,494 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:18:08,494 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:18:08,494 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:20:27,420 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:20:27,420 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:20:27,420 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:20:27,420 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:21:01,248 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:21:01,249 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:21:01,250 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:21:01,250 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:21:26,197 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:21:26,197 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:21:26,197 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:21:26,197 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:29:13,790 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:29:13,790 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:29:13,790 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:29:13,790 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:34:33,233 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:34:33,233 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:34:33,233 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:34:33,233 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:34:42,419 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:34:42,419 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:34:42,419 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:34:42,419 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:34:56,516 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:34:56,517 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:34:56,519 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:34:56,519 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:35:15,016 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:35:15,016 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:35:15,031 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:35:15,031 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:39:05,124 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:39:05,124 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\main\resources
+2017-08-13 12:39:05,124 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:39:05,124 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\7_Timeout\src\test\resources
+2017-08-13 12:44:09,657 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Revision\Tools\junit\8_Mocking\pom.xml
+2017-08-13 12:44:09,936 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:8_Mocking:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\8_Mocking\pom.xml.
+2017-08-13 12:44:10,474 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /8_Mocking/src/main/java
+2017-08-13 12:44:10,490 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /8_Mocking/src/test/java
+2017-08-13 12:44:10,759 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 1 sec
+2017-08-13 12:44:11,561 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:8_Mocking:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\8_Mocking\pom.xml.
+2017-08-13 12:44:12,058 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:44:12,059 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:44:12,062 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:44:12,062 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:44:13,168 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:8_Mocking:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\8_Mocking\pom.xml.
+2017-08-13 12:44:13,515 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:44:13,515 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:44:13,531 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:44:13,531 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:45:02,011 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:45:02,011 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:45:02,011 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:45:02,011 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:45:38,466 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:45:38,466 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:45:38,466 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:45:38,466 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:45:46,033 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:45:46,033 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:45:46,033 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:45:46,033 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:46:06,921 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:46:06,921 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:46:06,937 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:46:06,937 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:46:35,954 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:46:35,954 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:46:35,954 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:46:35,954 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:47:32,974 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:47:32,974 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:47:32,990 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:47:32,990 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:50:19,111 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:50:19,111 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:50:19,127 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:50:19,127 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:51:54,256 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:51:54,256 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:51:54,256 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:51:54,256 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:52:29,298 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:52:29,298 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:52:29,314 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:52:29,314 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:52:50,714 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:52:50,714 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:52:50,714 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:52:50,714 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:55:16,461 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:55:16,461 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:55:16,461 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:55:16,461 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:57:50,421 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:57:50,421 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:57:50,423 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:57:50,423 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:58:39,243 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:58:39,243 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:58:39,243 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:58:39,243 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 12:59:37,040 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:59:37,040 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 12:59:37,056 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 12:59:37,056 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 13:00:52,243 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 13:00:52,243 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 13:00:52,243 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 13:00:52,243 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 13:03:04,223 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 13:03:04,223 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 13:03:04,223 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 13:03:04,223 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 13:03:42,523 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 13:03:42,523 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 13:03:42,523 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 13:03:42,523 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 13:16:43,600 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 13:16:43,600 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 13:16:43,600 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 13:16:43,600 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 13:16:49,919 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 13:16:49,919 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 13:16:49,919 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 13:16:49,919 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:47:52,208 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:47:52,208 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:47:52,208 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:47:52,208 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:49:15,328 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:49:15,328 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:49:15,328 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:49:15,328 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:49:46,588 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:8_Mocking:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\8_Mocking\pom.xml.
+2017-08-13 17:49:46,904 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:49:46,904 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:49:46,904 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:49:46,904 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:49:48,322 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:49:48,322 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:49:48,322 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:49:48,322 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:49:56,312 [Worker-113] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-13 17:49:56,613 [Worker-113] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcindia:8_Mocking:0.0.1-SNAPSHOT @ E:\Revision\Tools\junit\8_Mocking\pom.xml.
+2017-08-13 17:49:56,798 [Worker-113] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /8_Mocking/src/main/java
+2017-08-13 17:49:56,798 [Worker-113] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /8_Mocking/src/test/java
+2017-08-13 17:49:57,037 [Worker-113] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-08-13 17:49:57,237 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:49:57,237 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:49:57,237 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:49:57,237 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:50:19,005 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:50:19,005 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:50:19,005 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:50:19,005 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:53:10,016 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:53:10,017 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:53:10,017 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:53:10,017 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:53:15,607 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:53:15,607 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:53:15,622 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:53:15,623 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:53:27,048 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:53:27,048 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:53:27,048 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:53:27,048 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:53:58,947 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:53:58,947 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:53:58,962 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:53:58,962 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:55:21,295 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:55:21,295 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:55:21,310 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:55:21,310 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:56:50,299 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:56:50,299 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:56:50,299 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:56:50,299 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 17:57:37,982 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:57:37,982 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 17:57:37,982 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 17:57:37,982 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:02:48,530 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:02:48,530 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:02:48,530 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:02:48,530 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:05:43,497 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:05:43,498 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:05:43,501 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:05:43,502 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:07:46,162 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:07:46,162 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:07:46,162 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:07:46,162 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:12:54,523 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:12:54,523 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:12:54,523 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:12:54,523 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:16:33,089 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:16:33,105 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:16:33,105 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:16:33,105 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:16:51,925 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:16:51,925 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:16:51,941 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:16:51,941 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:18:12,378 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:18:12,378 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:18:12,378 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:18:12,378 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:27:35,593 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:27:35,593 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:27:35,593 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:27:35,593 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:28:07,143 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:28:07,143 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:28:07,158 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:28:07,158 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:28:19,430 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:28:19,430 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:28:19,446 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:28:19,446 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:30:20,787 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:30:20,787 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:30:20,787 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:30:20,787 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:31:05,644 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:31:05,644 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:31:05,644 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:31:05,644 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources
+2017-08-13 18:32:04,600 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:32:04,600 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\main\resources
+2017-08-13 18:32:04,600 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-13 18:32:04,600 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Revision\Tools\junit\8_Mocking\src\test\resources

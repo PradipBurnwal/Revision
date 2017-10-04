@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<!-- Using Type Attribute -->
+	<bean id="person" class="com.cc.beans.Person">
+		<constructor-arg value="10" type="int"/>
+	</bean>
+		
+	<!-- Using Index Attribute -->
+	<bean id="product" class="com.cc.beans.Product">
+		<constructor-arg value="Moblie"/>
+		<constructor-arg value="20" index="0"/>
+	</bean>
+	
+	<!-- Using Name Attribute -->
+	<bean id="warehouse" class="com.cc.beans.Warehouse">
+		<constructor-arg value="Bangaluru" name="warehouseName"/>
+		<constructor-arg value="500" name="id"/>
+	</bean>
+
+</beans>

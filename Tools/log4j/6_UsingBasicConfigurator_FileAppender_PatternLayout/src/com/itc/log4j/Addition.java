@@ -1,0 +1,21 @@
+package com.itc.log4j;
+
+import org.apache.log4j.Logger;
+
+public class Addition {
+	Logger log = Logger.getLogger(this.getClass());
+	public int add(int a, int b){
+		log.info("-add() method invoked-");
+		log.debug("Value :"+a+"\t"+b);
+		if(a>0 && b>0){
+			log.info("enter into if block");
+			log.info("Calculating Addition");
+			log.debug("Returning Calculated Addition-"+(a+b));
+			return (a+b);
+		}else{
+			log.error("No. must be Greater then 0");
+			throw new IllegalArgumentException("Number must be Greater then 0");
+		}
+		
+	}
+}

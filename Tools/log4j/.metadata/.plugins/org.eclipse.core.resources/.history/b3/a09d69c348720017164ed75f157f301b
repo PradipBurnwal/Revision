@@ -1,0 +1,36 @@
+package com.itc.log4j;
+
+import org.apache.log4j.Appender;
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.ConsoleAppender;
+import org.apache.log4j.Layout;
+import org.apache.log4j.PatternLayout;
+
+public class Test {
+	static{
+		Layout lay = new PatternLayout("'%d','%C','%p','%c','%M','%m','%l','%n'");
+		Appender app = null;
+		try{
+			app = new ConsoleAppender(lay);
+			BasicConfigurator.configure(app);
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+	}
+	public static void main(String[] args) {
+		for(int i=1; i<2; i++){
+			try {
+				Thread.sleep(5000);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+		if(args.length==0){
+			//
+		}
+		ITCOperator op = new ITCOperator();
+		int rem = op.getReminder(args[0], args[1]);
+		System.out.println("Reminder in main: "+rem);
+	}
+
+}

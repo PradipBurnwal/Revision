@@ -1,0 +1,16 @@
+package com.jcaa6.test;
+
+public class ControlBoard {
+	private Machine machine;
+
+	public void setMachine(Machine machine) {
+		this.machine = machine;
+	}
+
+	public ControlBoard(Machine machine) {
+		super();
+		this.machine = machine;
+	}
+	
+
+}

@@ -1,0 +1,9 @@
+package com.ai.test;
+
+public class AITest {
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.doa.accessor;
+
+public interface IAccessor {
+
+}

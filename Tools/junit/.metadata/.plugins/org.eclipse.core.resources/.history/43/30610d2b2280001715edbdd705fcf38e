@@ -1,0 +1,34 @@
+package com.mk.reader;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Arrays;
+import java.util.List;
+
+import org.junit.After;
+import org.junit.Before;
+
+public class FileReaderTest {
+	private final String INPUT_FILE_NM =  "e:\\random.txt";
+	private Reader reader;
+	private List<String> expectedDate;
+	
+	@Before
+	public void prepare() throws IOException{
+		FileOutputStream fos = null;
+		reader = new FileReaderImpl();
+		expectedDate = Arrays.asList(new String[]{"malayalam","madam","poster","toy"});
+		fos = new FileOutputStream(INPUT_FILE_NM);
+		fos.write("malayalam,madam,poster,toy".getBytes());
+		fos.close();
+	}
+	
+	
+	@After
+	public void removeFile(){
+		new File(INPUT_FILE_NM).delete();
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.primitiveValueAnno3.test;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Rocket {
+	
+	private String launchPadType;
+
+	@Override
+	public String toString() {
+		return "Rocket [launchPadType=" + launchPadType + "]";
+	}
+	
+}

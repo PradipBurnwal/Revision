@@ -1,0 +1,20 @@
+package com.itc.langStringPack;
+
+public class Lab034matches {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String exp = "[A-Za-z0-9]";
+		System.out.println("itc".matches(exp));
+		System.out.println("99ITCIndia".matches(exp));
+		System.out.println("ITCIndia".matches(exp));
+		System.out.println();
+		String exp1 = "[A-Z][A-Za-z0-9]";
+		System.out.println("itc".matches(exp1));
+		System.out.println("99ITCIndia".matches(exp1));
+		System.out.println("ITCIndia".matches(exp1));
+	}
+
+}

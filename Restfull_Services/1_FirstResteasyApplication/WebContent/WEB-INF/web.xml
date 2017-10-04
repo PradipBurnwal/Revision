@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>1_FirstResteasyApplication</display-name>
+  <!-- This Approach-1 which is Never Recommended -->
+  <!-- <context-param>
+  	<param-name>resteasy.scan</param-name>
+  	<param-value>true</param-value>
+  </context-param>
+  <servlet>
+  	<servlet-name>resteasy</servlet-name>
+  	<servlet-class>org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>resteasy</servlet-name>
+  	<url-pattern>/*</url-pattern>
+  </servlet-mapping> -->
+  <!-- Approach-2 -->
+  <!-- <context-param>
+  	<param-name>resteasy.scan</param-name>
+  	<param-value>true</param-value>
+  </context-param>
+  <servlet>
+  	<servlet-name>RestEasyServlet</servlet-name>
+  	<servlet-class>org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher</servlet-class>
+  	<init-param>
+  		<param-name>resteasy.servlet.mapping.prefix</param-name>
+  		<param-value>/rest</param-value>
+  	</init-param>
+  	<load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>RestEasyServlet</servlet-name>
+  	<url-pattern>/rest/*</url-pattern>
+  </servlet-mapping> -->
+  
+  <!-- Approach-3 Using Own Application class -->
+  <!-- <servlet>
+  	<servlet-name>javax.ws.rs.core.Application</servlet-name>
+  	<init-param>
+  		<param-name>resteasy.servlet.mapping.prefix</param-name>
+  		<param-value>/rest</param-value>
+  	</init-param>
+  	<load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>javax.ws.rs.core.Application</servlet-name>
+  	<url-pattern>/rest/*</url-pattern>
+  </servlet-mapping> -->
+  
+  <!-- Approach-4 : Annotation
+  Attach Annotation on FirstRestEasyApplication -->
+  
+  <!-- Approach-5 Make Application class as Singleton(MyRestEasyApplication.java)-->
+  	<!-- <servlet>
+  		<servlet-name>javax.ws.rs.core.Application</servlet-name>
+  		<servlet-class>com.fra.application.MyRestEasyApplication</servlet-class>
+  		<init-param>
+  			<param-name>resteasy.servlet.mapping.prefix</param-name>
+  			<param-value>/rest</param-value>
+  		</init-param>
+  		<load-on-startup>1</load-on-startup>
+  	</servlet>
+	<servlet-mapping>
+		<servlet-name>javax.ws.rs.core.Application</servlet-name>
+		<url-pattern>/rest/*</url-pattern>
+	</servlet-mapping> -->
+	
+	<!-- Approach-6 : Annotation
+	Attaching Annotation on MyResteasyApplication which is singleton also -->
+	
+	<!-- Approach-7 -->
+  	<servlet>
+  		<servlet-name>resteasy</servlet-name>
+  		<servlet-class>com.fra.application.MyRestEasyApplication</servlet-class>
+  		<init-param>
+  			<param-name>resteasy.servlet.mapping.prefix</param-name>
+  			<param-value>/rest</param-value>
+  		</init-param>
+  		<load-on-startup>1</load-on-startup>
+  	</servlet>
+	<servlet-mapping>
+		<servlet-name>resteasy</servlet-name>
+		<url-pattern>/rest/*</url-pattern>
+	</servlet-mapping>
+	
+	<!-- Approach-8 : It's not working-->
+	<!-- <servlet>
+		<servlet-name>RestEasyServlet</servlet-name>
+		<servlet-class>org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher</servlet-class>
+		<init-param>
+			<param-name>javax.ws.rs.Application</param-name>
+			<param-value>javax.ws.rs.core.Application</param-value>
+		</init-param>
+		<init-param>
+			<param-name>resteasy.servlet.mapping.prefix</param-name>
+			<param-value>/rest</param-value>
+		</init-param>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>RestEasyServlet</servlet-name>
+		<url-pattern>/rest/*</url-pattern>
+	</servlet-mapping> -->
+</web-app>

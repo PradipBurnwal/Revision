@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.app.refVars.ObjectPassAsArgs"/>
+<fullyQualifiedTypeName name="com.app.refVars.ThisKeywordUse"/>
+<fullyQualifiedTypeName name="com.app.refVars.Example"/>
+<fullyQualifiedTypeName name="com.app.refVars.StaticBlock"/>
+<fullyQualifiedTypeName name="com.app.refVars.NonStaticBlock"/>
+<fullyQualifiedTypeName name="java.lang.Readable"/>
+<fullyQualifiedTypeName name="com.app.refVars.RecursionEx1"/>
+<fullyQualifiedTypeName name="cop.oop.NSMEF.B3"/>
+<fullyQualifiedTypeName name="com.oop.superParantesis.Example"/>
+<fullyQualifiedTypeName name="com.oop.superParantesis.Sample"/>
+</qualifiedTypeNameHistroy>

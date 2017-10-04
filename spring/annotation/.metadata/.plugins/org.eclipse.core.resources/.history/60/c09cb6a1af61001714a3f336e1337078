@@ -1,0 +1,13 @@
+package com.requiredAnno.test;
+
+public class RATest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

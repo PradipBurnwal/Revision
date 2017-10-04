@@ -1,0 +1,10 @@
+package com.propertySource7.test;
+
+import org.springframework.context.annotation.PropertySource;
+import org.springframework.stereotype.Component;
+
+@Component
+@PropertySource("classpath:com/properySource7/test/aeroeng.properties")
+public class Astronaut {
+
+}

@@ -1,0 +1,10 @@
+package com.resource.test;
+
+import org.omg.CORBA.portable.ApplicationException;
+
+public class ResourceTest {
+	public static void main(String[] args) {
+		ApplicationCont
+	}
+
+}

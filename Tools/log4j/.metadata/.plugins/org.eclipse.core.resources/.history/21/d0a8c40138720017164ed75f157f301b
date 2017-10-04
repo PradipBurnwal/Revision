@@ -1,0 +1,11 @@
+package com.cpl.test;
+
+import org.apache.log4j.PropertyConfigurator;
+
+public class CPLTest {
+
+	public static void main(String[] args) {
+		PropertyConfigurator.configure(CPLTest.class.getClassLoader().getResource("hms-log4j.properties"));
+	}
+
+}

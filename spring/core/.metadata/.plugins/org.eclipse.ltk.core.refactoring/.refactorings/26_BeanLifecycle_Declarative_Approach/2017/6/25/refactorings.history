@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.blc.beans.SenserDrive&apos; to &apos;SenserDriver&apos;&#x0D;&#x0A;- Original project: &apos;26_BeanLifecycle&apos;&#x0D;&#x0A;- Original element: &apos;com.blc.beans.SenserDrive&apos;&#x0D;&#x0A;- Renamed element: &apos;com.blc.beans.SenserDriver&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SenserDrive&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.blc.beans{SenserDrive.java[SenserDrive" matchStrategy="1" name="SenserDriver" qualified="false" references="true" similarDeclarations="false" stamp="1498287181646" textual="false" version="1.0"/>
+</session>

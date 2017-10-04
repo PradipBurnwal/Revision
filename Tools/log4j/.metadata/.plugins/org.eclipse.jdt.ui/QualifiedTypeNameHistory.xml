@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.pl.test.PropsTest"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="com.cpl.test.CPLTest"/>
+<fullyQualifiedTypeName name="com.cpl.dao.PatientDao"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.baseCamp.log4j.BaseCampOperator"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="com.itc.log4j.ITCOperator"/>
+<fullyQualifiedTypeName name="org.apache.log4j.ConsoleAppender"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.itc.log4j.Addition"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Layout"/>
+<fullyQualifiedTypeName name="org.apache.log4j.PatternLayout"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Appender"/>
+<fullyQualifiedTypeName name="org.apache.log4j.BasicConfigurator"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Level"/>
+<fullyQualifiedTypeName name="org.apache.log4j.FileAppender"/>
+<fullyQualifiedTypeName name="org.apache.log4j.HTMLLayout"/>
+<fullyQualifiedTypeName name="org.w3c.dom.DOMConfiguration"/>
+<fullyQualifiedTypeName name="org.apache.log4j.xml.DOMConfigurator"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletContextListener"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="com.itcindia.util.Log4jUtil"/>
+<fullyQualifiedTypeName name="org.apache.log4j.PropertyConfigurator"/>
+</qualifiedTypeNameHistroy>

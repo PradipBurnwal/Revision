@@ -1,0 +1,5 @@
+package com.fh.entities;
+
+public class Project {
+
+}

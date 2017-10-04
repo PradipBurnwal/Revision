@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=1_BasicLogging/lib\/com.springsource.org.apache.log4j-1.2.15.jar&lt;org.apache.log4j(ConsoleAppender.class[ConsoleAppender" modifiers="33" timestamp="1501081044322"/>
+<typeInfo handle="=1_BasicLogging/lib\/com.springsource.org.apache.log4j-1.2.15.jar&lt;org.apache.log4j(SimpleLayout.class[SimpleLayout" modifiers="33" timestamp="1501081044322"/>
+<typeInfo handle="=1_BasicLogging/lib\/com.springsource.org.apache.log4j-1.2.15.jar&lt;org.apache.log4j(FileAppender.class[FileAppender" modifiers="33" timestamp="1501081044322"/>
+<typeInfo handle="=1_BasicLogging/lib\/com.springsource.org.apache.log4j-1.2.15.jar&lt;org.apache.log4j.jdbc(JDBCAppender.class[JDBCAppender" modifiers="33" timestamp="1501081044322"/>
+<typeInfo handle="=8_UsingPropertyConfigurator_JDBCAppender_HTMLAppender/lib\/com.springsource.org.apache.log4j-1.2.15.jar&lt;org.apache.log4j(PatternLayout.class[PatternLayout" modifiers="33" timestamp="1501081044322"/>
+<typeInfo handle="=1_BasicLogging/lib\/com.springsource.org.apache.log4j-1.2.15.jar&lt;org.apache.log4j.net(SMTPAppender.class[SMTPAppender" modifiers="33" timestamp="1501081044322"/>
+<typeInfo handle="=1_BasicLogging/lib\/com.springsource.org.apache.log4j-1.2.15.jar&lt;org.apache.log4j(PatternLayout.class[PatternLayout" modifiers="33" timestamp="1501081044322"/>
+</typeInfoHistroy>

@@ -1,0 +1,27 @@
+package com.app.refVars;
+
+public class StaticBlock {
+	static int a =10;
+	static{
+		System.out.println("a :"+a);
+		//class Level Variable "b" can not be access directly from other SV or SB
+		//before its creational statement
+		//System.out.println("b :"+b);
+		//so it can be access either through Constructor or method
+		//Approach-2 through constructor
+		System.out.println("b :"+StaticBlock.b);
+		//Approach-3 through Method
+		//System.out.println("b :"+getB());
+	}
+	public static void main(String[] args) {
+		System.out.println("a :"+a);
+		System.out.println("b :"+b);
+	}
+	
+	//Approach-3 through method
+	static int getB(){
+		return b;
+	}
+	
+	static int b = 20;
+}

@@ -1,0 +1,30 @@
+package com.itcindia.exceptionTest;
+
+import org.junit.After;
+import org.junit.Before;
+
+import com.itcindia.dto.Account;
+import com.itcindia.service.BankingService;
+
+public class BankingServiceTest {
+	private BankingService bankingService;
+	private Account activeAccount;
+	
+	public BankingServiceTest(BankingService bankingService,Account activeAccount) {
+		this.bankingService = bankingService;
+		this.activeAccount = activeAccount;
+	}
+	@Before
+	public void init(){
+		bankingService = new BankingService();
+		activeAccount = new Account("ac1001", "Sandeep", "active");
+	}
+	
+	public void testActiveAccount(){
+		Account actualAccount = null;
+	}
+	@After
+	public void cleanUp(){
+		bankingService = null;
+	}
+}

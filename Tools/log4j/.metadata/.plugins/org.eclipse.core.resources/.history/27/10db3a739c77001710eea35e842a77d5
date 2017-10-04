@@ -1,0 +1,10 @@
+package com.itcindia.log4j;
+
+public class Log4jSMTPTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

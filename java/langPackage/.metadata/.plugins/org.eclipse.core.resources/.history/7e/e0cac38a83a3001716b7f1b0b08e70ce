@@ -1,0 +1,13 @@
+package com.itc.langStringPack;
+
+public class Lab024IndexOf {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String str = "Welcome to ITC,Indian Tobaco Company, No 1 in Tobaco Producer and Manketing";
+		System.out.println(str.indexOf('a'));
+	}
+
+}

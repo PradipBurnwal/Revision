@@ -1,0 +1,59 @@
+package com.pe.beans;
+
+import java.io.File;
+import java.net.URI;
+import java.util.Arrays;
+import java.util.Date;
+
+public class Payslip {
+	 private int empId;
+	 private String name;
+	 private Date paidDt;
+	 private File paySlipFile;
+	 private URI webSite;
+	 public URI getWebSite() {
+		return webSite;
+	}
+	public void setWebSite(URI webSite) {
+		this.webSite = webSite;
+	}
+	private String[] verifiers;
+		public int getEmpId() {
+		return empId;
+	}
+	public void setEmpId(int empId) {
+		this.empId = empId;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public Date getPaidDt() {
+		return paidDt;
+	}
+	public void setPaidDt(Date paidDt) {
+		this.paidDt = paidDt;
+	}
+	public File getPaySlipFile() {
+		return paySlipFile;
+	}
+	public void setPaySlipFile(File paySlipFile) {
+		this.paySlipFile = paySlipFile;
+	}
+	public String[] getVerifiers() {
+		return verifiers;
+	}
+	public void setVerifiers(String[] verifiers) {
+		this.verifiers = verifiers;
+	}
+	@Override
+	public String toString() {
+		return "Payslip [empId=" + empId + ", name=" + name + ", paidDt="
+				+ paidDt + ", paySlipFile=" + paySlipFile + ", webSite="
+				+ webSite + ", verifiers=" + Arrays.toString(verifiers) + "]";
+	}
+	
+	
+}

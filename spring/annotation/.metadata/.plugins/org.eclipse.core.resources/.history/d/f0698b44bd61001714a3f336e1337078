@@ -1,0 +1,13 @@
+package com.stereotypeAnno4.test;
+
+public class Toy {
+
+	public Toy() {
+		System.out.println("Toy created");
+	}
+	
+	public void play(){
+		System.out.println("Playing...");
+	}
+	
+}

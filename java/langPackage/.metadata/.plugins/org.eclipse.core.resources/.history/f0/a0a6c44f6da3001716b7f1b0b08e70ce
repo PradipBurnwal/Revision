@@ -1,0 +1,16 @@
+package com.itc.langStringPack;
+
+public class Lab015ValueOf {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		int ab = 98;
+		//String st1 = ab;
+		String st1 = String.valueOf(ab);
+		String st2 = String.valueOf(true);
+		System.out.println(st1+"\t"+st2);
+	}
+
+}

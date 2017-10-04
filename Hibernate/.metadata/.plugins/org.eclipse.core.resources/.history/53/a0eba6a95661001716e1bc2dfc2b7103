@@ -1,0 +1,17 @@
+package com.fh.entities;
+
+public class Project {
+
+	private int projectNo;
+	private String title;
+	private String desc;
+	private String domine;
+	private Long duration;
+	private String clientName;
+	private String status;
+	public Project() {
+		//no code
+	}
+	
+	
+}

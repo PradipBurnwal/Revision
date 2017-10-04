@@ -1,0 +1,11 @@
+package com.oop.superParantesis;
+
+public class Sample extends Example {
+	
+
+
+	public static void main(String[] args) {
+		System.out.println("main");
+	}
+
+}

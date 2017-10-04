@@ -1,0 +1,15 @@
+package com.profile11.test;
+
+public class ConnectionManager {
+	private String driverClassname;
+	private String url;
+	private String username;
+	private String password;
+	@Override
+	public String toString() {
+		return "ConnectionManager [DriverClassname=" + driverClassname
+				+ ", url=" + url + ", username=" + username + ", password="
+				+ password + "]";
+	}
+	
+}

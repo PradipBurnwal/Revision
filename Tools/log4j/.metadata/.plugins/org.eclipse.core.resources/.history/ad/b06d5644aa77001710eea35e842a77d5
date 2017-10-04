@@ -1,0 +1,10 @@
+package com.itc.log4j;
+
+public class XMLLog4jTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.oop.superParantesis;
+
+public class Example {
+
+	public Example(int a) {
+		System.out.println("parameterized Construction");
+	}
+	
+}

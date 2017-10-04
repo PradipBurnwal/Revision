@@ -1,0 +1,16 @@
+package com.jcsta.test;
+
+import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class JcstaTest {
+	public static void main(String[] args) {
+		ApplicationContext context = new AnnotationConfigApplicationContext("com.jcsta.test");
+		((ConfigurableApplicationContext)context).registerShutdownHook();
+		Rocket rocket = context.getBean("rocket", Rocket.class);
+		rocket.launch();
+	}
+
+}

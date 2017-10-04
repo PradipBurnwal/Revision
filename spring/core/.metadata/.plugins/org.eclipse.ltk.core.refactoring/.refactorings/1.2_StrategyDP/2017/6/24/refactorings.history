@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.sdp.beans.HtmlMessageProducer&apos; to &apos;HtmlMessageProducerImpl&apos;&#x0D;&#x0A;- Original project: &apos;StrategyDP&apos;&#x0D;&#x0A;- Original element: &apos;com.sdp.beans.HtmlMessageProducer&apos;&#x0D;&#x0A;- Renamed element: &apos;com.sdp.beans.HtmlMessageProducerImpl&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HtmlMessageProducer&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.sdp.beans{HtmlMessageProducer.java[HtmlMessageProducer" matchStrategy="1" name="HtmlMessageProducerImpl" qualified="false" references="true" similarDeclarations="false" stamp="1497556423264" textual="false" version="1.0"/>
+</session>

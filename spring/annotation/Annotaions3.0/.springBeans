@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.5.1.201404300732-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/com/requiredAnno1/test/req-anno-beans.xml</config>
+		<config>src/com/autoWiredAnno2/test/autowired-anno-bean.xml</config>
+		<config>src/com/primitiveValueAnno3/test/pv-beans.xml</config>
+		<config>src/com/stereotypeAnno4/test/stereotype-beans.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>

@@ -1,0 +1,16 @@
+package com.stereotypeAnno4.test;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class Toy {
+
+	public Toy() {
+		System.out.println("Toy created");
+	}
+	
+	public void play(){
+		System.out.println("Playing...");
+	}
+	
+}

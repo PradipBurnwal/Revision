@@ -1,0 +1,17 @@
+package com.itc.langStringPack;
+
+public class Lab08String {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String st1 = "ITC99";
+		String st2 = "ITC";
+		final int ab = 99;
+		String st3 = st2+ab;
+		System.out.println(st1+"\t"+st3);
+		System.out.println(st1 == st3.intern());
+	}
+
+}

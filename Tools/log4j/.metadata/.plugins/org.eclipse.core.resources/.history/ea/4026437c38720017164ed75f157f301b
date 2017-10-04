@@ -1,0 +1,13 @@
+package com.cpl.dao;
+
+import org.apache.log4j.Logger;
+
+public class PatientDao {
+	private final static Logger logger = Logger.getLogger(PatientDao.class);
+	
+	public void savePatient(){
+		logger.debug("Entered into save Patient...");
+		logger.info("Patient Save");
+		logger.warn("Patient Died");
+	}
+}

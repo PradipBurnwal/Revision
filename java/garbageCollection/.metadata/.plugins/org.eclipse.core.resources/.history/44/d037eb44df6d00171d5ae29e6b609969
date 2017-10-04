@@ -1,0 +1,10 @@
+package com.app.refVars;
+
+public class ThisKeywordUse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
